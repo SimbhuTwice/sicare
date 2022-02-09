@@ -21,10 +21,10 @@ Number,Client name ,Location ,Category ,Status ,Responsibilty,Completed On,Work 
 20,Cheers ,Ayanavaram,Supermarket-Outlet,Done ,Parthiban & Sundar ,20/01/22,9:17Pm,0,Self
 21,Indian Bank,George Town,Bank ,Done ,Parthiban & Sundar ,20/01/22,4:30Pm,1859,Received 
 22,John Mahendran,T.Nagar,Residence ,Done ,Parthiban & Sundar ,20/01/22,3:44Pm,1000,Received 
-23,Cheers ,Adyar,Supermarket-Outlet,Done ,Parthiban & Sundar ,21/01/22,2:20PM,,Self
+23,Cheers ,Adyar,Supermarket-Outlet,Done ,Parthiban & Sundar ,21/01/22,2:20PM,0,Self
 24,Primal Patterns,Besant Nagar,Gym,Done,Parthiban,22/01/22,1:30Pm,1770,Received 
 25,Cheers,Nungambakkam,Supermarket-Outlet,Done,Parthiban & Sundar ,22/01/22,12Pm,0,Self
-26,Hyundai ,Sriperumathur ,Show room,Done,Parthiban & Sundar ,22/01/22,4 to 7pm,,Pending
+26,Hyundai ,Sriperumathur ,Show room,Done,Parthiban & Sundar ,22/01/22,4 to 7pm,0,Pending
 27,Office,Nungambakkam,Office,Done,Parthiban & Sundar ,22/01/22,1Pm,0,Self
 28,SIB ,Nungambakkam RO,Bank ,Done ,Parthiban & Sundar ,24/01/22,10.00 am ,0,Self
 30,Cheers,Nungambakkam ,Supermarket-Outlet,Done ,Parthiban  ,24/01/22,11:00am,0,Self
