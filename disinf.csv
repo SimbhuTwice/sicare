@@ -1,52 +1,62 @@
-Number,Client name ,Location ,Category ,Status ,Responsibilty,Completed On,Work completed time , Amount ,Payment Status
-1,Cheers ,Annangar,Supermarket-Outlet,Done ,Parthiban & Vinoth,17/01/22,1pm ,0,Self
-2,Cheers ,Nungambakkam ,Supermarket-Outlet,Done ,Parthiban & Vinoth,17/01/22,1pm ,0,Self
-3,Shankar Basu ,Perungudi ,Residence ,Done ,Parthiban & Vinoth,17/01/22,4pm ,2000,Received 
-4,SIB ,T Nagar,Bank ,Done ,Parthiban & Vinoth,17/01/22,5.30 pm,0,Self
-5,Punitha,Valluvar Kottam ,Residence ,Done ,Vinoth,17/01/22,7 30 pm,900,Received 
-6,Cheers ,Annanagar,Supermarket-Outlet,Done ,Parthiban & Sundar ,18/01/22,8 .00 am ,0,Self
-7,Cheers ,Nungambakkam ,Supermarket-Outlet,Done , Sundar ,18/01/22,8. 45 am ,0,Self
-8,Cheers ,Adyar,Supermarket-Outlet,Done ,Parthiban & Sundar ,18/01/22,9.45  am ,0,Self
-9,Cheers ,Adyar,Office ,Done ,Parthiban & Sundar ,18/01/22,7.30 pm,0,Self
-10,Cheers ,Annanagar,Supermarket-Outlet,Done ,Sundar ,18/01/22,8 .00 am ,0,Self
-11,Cheers ,Nungambakkam ,Supermarket-Outlet,Done ,Parthiban & Sundar ,18/01/22,8. 45 am ,0,Self
-12,Cheers ,Adyar,Supermarket-Outlet,Done ,Parthiban & Sundar ,18/01/22,9.45  am ,0,Self
-13,Cheers ,Adyar,Office ,Done ,Sundar ,18/01/22,7.30 pm,0,Self
-14,Cheers ,Annanagar,Supermarket-Outlet,Done ,Parthiban & Sundar ,19/01/22,8 .00 am ,0,Self
-15,Cheers ,Nungambakkam ,Supermarket-Outlet,Done , Sundar ,19/01/22,8. 45 am ,0,Self
-16,Sri ram,Besant Nagar,Residence,Done ,Parthiban & Sundar ,19/01/22,5.30 pm ,1000,Received 
-17,Cheers ,Nungambakkam ,Supermarket-Outlet,Done ,Parthiban & Sundar ,20/01/22,8 .00 am ,0,Self
-18,Cheers ,Annanagar ,Supermarket-Outlet,Done ,Parthiban,20/01/22,9 .30 am ,0,Self
-19,SIB ,Nungambakkam ,Bank ,Done ,Parthiban & Sundar ,20/01/22,10.30 am ,0,Self
-20,Cheers ,Ayanavaram,Supermarket-Outlet,Done ,Parthiban & Sundar ,20/01/22,9:17Pm,0,Self
-21,Indian Bank,George Town,Bank ,Done ,Parthiban & Sundar ,20/01/22,4:30Pm,1859,Received 
-22,John Mahendran,T.Nagar,Residence ,Done ,Parthiban & Sundar ,20/01/22,3:44Pm,1000,Received 
-23,Cheers ,Adyar,Supermarket-Outlet,Done ,Parthiban & Sundar ,21/01/22,2:20PM,0,Self
-24,Primal Patterns,Besant Nagar,Gym,Done,Parthiban,22/01/22,1:30Pm,1770,Received 
-25,Cheers,Nungambakkam,Supermarket-Outlet,Done,Parthiban & Sundar ,22/01/22,12Pm,0,Self
-26,Hyundai ,Sriperumathur ,Show room,Done,Parthiban & Sundar ,22/01/22,4 to 7pm,0,Pending
-27,Office,Nungambakkam,Office,Done,Parthiban & Sundar ,22/01/22,1Pm,0,Self
-28,SIB ,Nungambakkam RO,Bank ,Done ,Parthiban & Sundar ,24/01/22,10.00 am ,0,Self
-30,Cheers,Nungambakkam ,Supermarket-Outlet,Done ,Parthiban  ,24/01/22,11:00am,0,Self
-31,Cheers ,Adyar,Supermarket-Outlet,Done ,Parthiban & Sundar ,24/01/22,8:00pm,0,Self
-32,Office,Adyar,Office,Done ,Sundar ,24/01/22,8:30pm,0,Self
-33,Cheers,Anna Nagar,Supermarket-Outlet,Done ,Parthiban & Sundar ,25/01/22,10:00am,0,Self
-34,Dhurv ,Santhome,Residence,Done ,Parthiban & Sundar ,25/01/22,10:30am,600,Received 
-35,Shekar A,Kilpauk,Residence,Done, Sundar ,27/01/22,11:30am,1000,Received 
-36,Cheers,Anna nagar,Supermarket-Outlet,Done,Parthiban & Sundar ,27/01/22,1:00pm,0,Self
-37,Cheers,Nungambakkam,Supermarket-Outlet,Done,Sundar ,27/01/22,1:30pm,0,Self
-38,Cheers,Adyar,Supermarket-Outlet,Done,Parthiban ,27/01/22,3:30pm,0,Self
-39,Cheers ,Annangar,Supermarket-Outlet,Done ,Parthiban & Sundar ,28/01/22,3:00PM,0,Self
-40,Cheers ,Ayanavaram,Supermarket-Outlet,Done ,Parthiban & Sundar ,28/01/22,3.30pm ,0,Self
-41,Cheers ,Ayanavaram ,Supermarket-Outlet,Done ,Parthiban,31/01/22,11am ,0,Self
-42,Sekar A,Kilpauk ,Residence ,Done ,Parthiban ,31/01/22,11.30am ,1000,Received 
-43,Jayashree ,Adayar ,Residence ,Done ,Parthiban ,31/01/22,4 30pm,1000,Received 
-44,Lakshitha,Royapettah,Residence,Done ,Parthiban,01/02/22,11:20am,1000,Received 
-45,Cheers ,Anna nagar ,Supermarket-Outlet,Done ,Parthiban & Sundar ,02/02/22,2pm,0,Self
-46,Cheers ,Nungambakkam ,Supermarket-Outlet,Done ,Sundar ,02/02/22,2.30pm,0,Self
-47,Mrs Ramya ,West Mugapair ,Residence ,Done ,Parthiban & Sundar ,02/02/22,11am ,3000,Received 
-48,Office,Adyar,Office,Done ,Sundar ,03/02/22,8:30pm,0,Self
-49,Office,Adyar,Office,Done ,Sundar ,05/02/22,6.30pm,0,Self
-50,Srikumar V,Kilpauk,Residence ,Done ,Sundar ,07/02/22,8.30 am,1300,Pending
-51,Cheers,Anna Nagar,Supermarket-Outlet,Done ,Sundar ,08/02/22,2Pm,0,Self
-52,Cheers,Ayanavaram,Supermarket-Outlet,Done ,Sundar ,08/02/22,2:30Pm,0,Self
+Number,Client name ,Location ,Category ,Status ,Responsibilty,Completed On,Work completed time , Amount ,Payment Status,Service Type 
+1,Cheers ,Annangar,Supermarket-Outlet,Done ,Parthiban & Vinoth,17-01-22,1:00 PM,0,Self,Fumigation 
+2,Cheers ,Nungambakkam ,Supermarket-Outlet,Done ,Parthiban & Vinoth,17-01-22,1:00 PM,0,Self,Fumigation 
+3,Shankar Basu ,Perungudi ,Residence ,Done ,Parthiban & Vinoth,17-01-22,4:00 PM,2000,Received ,Fumigation 
+4,SIB ,T Nagar,Bank ,Done ,Parthiban & Vinoth,17-01-22,5.30 PM ,0,Self,Fumigation 
+5,Punitha,Valluvar Kottam ,Residence ,Done ,Vinoth,17-01-22,7.30 PM,900,Received ,Fumigation 
+6,Cheers ,Annanagar,Supermarket-Outlet,Done ,Parthiban & Sundar ,18-01-22,8.00 AM,0,Self,Fumigation 
+7,Cheers ,Nungambakkam ,Supermarket-Outlet,Done , Sundar ,18-01-22,8.45 AM ,0,Self,Fumigation 
+8,Cheers ,Adyar,Supermarket-Outlet,Done ,Parthiban & Sundar ,18-01-22,9.45 AM ,0,Self,Fumigation 
+9,Cheers ,Adyar,Office ,Done ,Parthiban & Sundar ,18-01-22,7.30 PM ,0,Self,Fumigation 
+10,Cheers ,Annanagar,Supermarket-Outlet,Done ,Sundar ,18-01-22,8.00 AM ,0,Self,Fumigation 
+11,Cheers ,Nungambakkam ,Supermarket-Outlet,Done ,Parthiban & Sundar ,18-01-22,8.45 AM ,0,Self,Fumigation 
+12,Cheers ,Adyar,Supermarket-Outlet,Done ,Parthiban & Sundar ,18-01-22,9.45 AM ,0,Self,Fumigation 
+13,Cheers ,Adyar,Office ,Done ,Sundar ,18-01-22,7.30 AM ,0,Self,Fumigation 
+14,Cheers ,Annanagar,Supermarket-Outlet,Done ,Parthiban & Sundar ,19-01-22,8.00 AM ,0,Self,Fumigation 
+15,Cheers ,Nungambakkam ,Supermarket-Outlet,Done , Sundar ,19-01-22,8.45 AM ,0,Self,Fumigation 
+16,Sri ram,Besant Nagar,Residence,Done ,Parthiban & Sundar ,19-01-22,5.30 PM ,1000,Received ,Fumigation 
+17,Cheers ,Nungambakkam ,Supermarket-Outlet,Done ,Parthiban & Sundar ,20-01-22,8.00 AM ,0,Self,Fumigation 
+18,Cheers ,Annanagar ,Supermarket-Outlet,Done ,Parthiban,20-01-22,9.30 AM ,0,Self,Fumigation 
+19,SIB ,Nungambakkam ,Bank ,Done ,Parthiban & Sundar ,20-01-22,10.30 AM ,0,Self,Fumigation 
+20,Cheers ,Ayanavaram,Supermarket-Outlet,Done ,Parthiban & Sundar ,20-01-22,9.30 PM ,0,Self,Fumigation 
+21,Indian Bank,George Town,Bank ,Done ,Parthiban & Sundar ,20-01-22,4.00 PM ,1859,Received ,Fumigation 
+22,John Mahendran,T.Nagar,Residence ,Done ,Parthiban & Sundar ,20-01-22,3.30 PM ,1000,Received ,Fumigation 
+23,Cheers ,Adyar,Supermarket-Outlet,Done ,Parthiban & Sundar ,21-01-22,2.20 PM ,0,Self,Fumigation 
+24,Primal Patterns,Besant Nagar,Gym,Done,Parthiban,22-01-22,1.30 PM ,1770,Received ,Fumigation 
+25,Cheers,Nungambakkam,Supermarket-Outlet,Done,Parthiban & Sundar ,22-01-22,12.00 PM,0,Self,Fumigation 
+26,Hyundai ,Sriperumathur ,Show room,Done,Parthiban & Sundar ,22-01-22,4 to 7pm,8830,Pending,Fumigation 
+27,Office,Nungambakkam,Office,Done,Parthiban & Sundar ,22-01-22,1:00 PM,0,Self,Fumigation 
+28,SIB ,Nungambakkam RO,Bank ,Done ,Parthiban & Sundar ,24-01-22,10.00 AM ,0,Self,Fumigation 
+30,Cheers,Nungambakkam ,Supermarket-Outlet,Done ,Parthiban  ,24-01-22,11,0,Self,Fumigation 
+31,Cheers ,Adyar,Supermarket-Outlet,Done ,Parthiban & Sundar ,24-01-22,8.00 AM ,0,Self,Fumigation 
+32,Office,Adyar,Office,Done ,Sundar ,24-01-22,8.30 PM ,0,Self,Fumigation 
+33,Cheers,Anna Nagar,Supermarket-Outlet,Done ,Parthiban & Sundar ,25-01-22,10.30 AM ,0,Self,Fumigation 
+34,Dhurv ,Santhome,Residence,Done ,Parthiban & Sundar ,25-01-22,10.30 AM ,600,Received ,Fumigation 
+35,Shekar A,Kilpauk,Residence,Done, Sundar ,27-01-22,11.30 AM ,1000,Received ,Fumigation 
+36,Cheers,Anna nagar,Supermarket-Outlet,Done,Parthiban & Sundar ,27-01-22,1:00 PM,0,Self,Fumigation 
+37,Cheers,Nungambakkam,Supermarket-Outlet,Done,Sundar ,27-01-22,1.30 PM ,0,Self,Fumigation 
+38,Cheers,Adyar,Supermarket-Outlet,Done,Parthiban ,27-01-22,3.30 PM ,0,Self,Fumigation 
+39,Cheers ,Annangar,Supermarket-Outlet,Done ,Parthiban & Sundar ,28-01-22,3:00 PM,0,Self,Fumigation 
+40,Cheers ,Ayanavaram,Supermarket-Outlet,Done ,Parthiban & Sundar ,28-01-22,3.30 PM ,0,Self,Fumigation 
+41,Cheers ,Ayanavaram ,Supermarket-Outlet,Done ,Parthiban,31-01-22,11:00 AM,0,Self,Fumigation 
+42,Sekar A,Kilpauk ,Residence ,Done ,Parthiban ,31-01-22,11.30 AM ,1000,Received ,Fumigation 
+43,Jayashree ,Adayar ,Residence ,Done ,Parthiban ,31-01-22,4.30 PM,1000,Received ,Fumigation 
+44,Lakshitha,Royapettah,Residence,Done ,Parthiban,01-02-22,11.20 AM ,1000,Received ,Fumigation 
+45,Cheers ,Anna nagar ,Supermarket-Outlet,Done ,Parthiban & Sundar ,02-02-22,2:00 PM,0,Self,Fumigation 
+46,Cheers ,Nungambakkam ,Supermarket-Outlet,Done ,Sundar ,02-02-22,2.30 PM ,0,Self,Fumigation 
+47,Mrs Ramya ,West Mugapair ,Residence ,Done ,Parthiban & Sundar ,02-02-22,11:00 AM,3000,Received ,Fumigation 
+48,Office,Adyar,Office,Done ,Sundar ,03-02-22,8.30 PM ,0,Self,Fumigation 
+49,Hotel Metro Sagar ,Saidapet ,Hotel ,Done ,Vendor ,16-01-22,0,3068,Received ,Pest Control
+50,Office,Adyar,Office,Done ,Sundar ,05-02-22,6.30 PM ,0,Self,Fumigation 
+51,Srikumar V,Kilpauk,Residence ,Done ,Sundar ,07-02-22,8.30 PM ,1300,Pending,Fumigation 
+52,Cheers,Anna Nagar,Supermarket-Outlet,Done ,Sundar ,08-02-22,2:00 PM,0,Self,Fumigation 
+53,Cheers,Ayanavaram,Supermarket-Outlet,Done ,Sundar ,08-02-22,2.30 PM ,0,Self,Fumigation 
+54,Cheers ,Nungambakkam ,Supermarket-Outlet,Done ,Vendor ,04-01-22,0,2124,Pending,Pest Control
+55,Cheers ,Anna Nagar,Supermarket-Outlet,Done ,Vendor ,20-01-22,0,2655,Pending,Pest Control
+56,Cheers,Adyar,WareHouse,Done ,Vendor ,20-01-22,0,2950,Pending,Pest Control
+57,Safe Infra Office ,Adyar,Office,Done ,Vendor ,20-01-22,0,2124,Pending,Pest Control
+58,Cheers,Adyar,WareHouse,Done ,Vendor ,20-01-22,0,2655,Pending,Pest Control
+59,Cheers ,Ayanavaram,Supermarket-Outlet,Done ,Vendor ,20-01-22,0,1416,Pending,Pest Control
+60,Trendlines LP Mainline,Pheonix ,Mall ,Done ,Sathish ,22-01-22,0,14160,Pending,Ac Work 
+61,Delight home stays,Madippakkam ,Service Apartment ,Done ,Vendor ,04-02-22,0,11505,Pending,Pest Control
+62,Trendlines LP Mainline,Adyar,Office ,Done ,Sathish ,10-02-22,0,531,Pending,Ac Work 
