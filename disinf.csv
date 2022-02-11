@@ -1,4 +1,4 @@
-Number,Client name ,Location ,Category ,Status ,Responsibilty,Completed On,Work completed time , Amount ,Payment Status,Service Type 
+S No,Client name ,Location ,Category ,Status ,Responsibilty,Completed On,Work completed time , Amount ,Payment Status,Service Type 
 1,Cheers ,Annangar,Supermarket-Outlet,Done ,Parthiban & Vinoth,17-01-22,1:00 PM,0,Self,Fumigation 
 2,Cheers ,Nungambakkam ,Supermarket-Outlet,Done ,Parthiban & Vinoth,17-01-22,1:00 PM,0,Self,Fumigation 
 3,Shankar Basu ,Perungudi ,Residence ,Done ,Parthiban & Vinoth,17-01-22,4:00 PM,2000,Received ,Fumigation 
@@ -61,3 +61,6 @@ Number,Client name ,Location ,Category ,Status ,Responsibilty,Completed On,Work 
 61,Delight home stays,Madippakkam ,Service Apartment ,Done ,Vendor ,04-02-22,0,11505,Pending,Pest Control
 62,Trendlines LP Mainline,Adyar,Office ,Done ,Sathish ,10-02-22,0,531,Pending,Ac Work 
 63,Office,Adyar,Office,Done ,Sundar ,09-02-22,8.00 PM ,0,Self,Fumigation 
+64,Hotel Milan,Velacherry ,Hotel ,Done ,Vendor ,10-02-22,0,3060,Pending,Pest Control
+65,Cheers,Adyar,WareHouse,Done ,Sundar ,10-02-22,7.30 PM,0,Self,Fumigation 
+66,Cheers ,Adyar,GRN Office ,Done ,Sundar ,10-02-22,7.40 PM,0,Self,Fumigation 
