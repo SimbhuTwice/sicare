@@ -64,7 +64,7 @@ S No,Client name ,Location ,Category ,Status ,Responsibilty,Completed On,Work co
 64,Hotel Milan,Velachery ,Hotel ,Done ,Vendor ,10-02-22,0,3060,Pending,Pest Control,CRM 
 65,Cheers,Adyar,WareHouse,Done ,Dinesh ,10-02-22,7.30 PM,0,Self,Fumigation ,CRM 
 66,Cheers ,Adyar,GRN Office ,Done ,Dinesh ,10-02-22,7.40 PM,0,Self,Fumigation ,CRM 
-67,Desika Chari ,Anna Nagar,Residence ,Done ,Sathish ,11-02-22,0,6900,Pending,Ac Work ,Selva
+67,Desika Chari ,Anna Nagar,Residence ,Done ,Sathish ,11-02-22,0,10250,Pending,Ac Work ,Selva
 68,Scan India ,T Nagar ,Office ,Done ,Vendor ,09-02-22,0,2301,Pending,Pest Control,Rakesh
 69,SI Care,Adyar,Office,Done ,Dinesh ,14-02-22,8.30 PM ,0,Self,Fumigation ,CRM 
 70,Cheers ,Adyar,Supermarket-Outlet,Done ,Dinesh ,15-02-22,1.00 PM,0,Self,Fumigation ,CRM 
@@ -79,3 +79,5 @@ S No,Client name ,Location ,Category ,Status ,Responsibilty,Completed On,Work co
 79,Capital Tower ,Nungambakkam ,Office ,Done,Dinesh ,18-02-22,11.30 AM ,0,Self,Fumigation ,CRM 
 80,Trendline ,Adyar,Office,Done,Sathish ,21-02-22,10.30 AM ,1110,Self,Ac Work ,Existing
 81,Trendline VH,Valasaravakkam,Show room,Done,Sathish ,22-02-22,10.40 AM,3009,Self,Ac Work ,Existing
+82,Cheers,Anna Nagar,Supermarket-Outlet,Done ,Dinesh ,23-02-22,11.30 AM ,0,Self,Fumigation ,CRM 
+83,Cheers,Alwarpet,Supermarket-Outlet,Done ,Dinesh ,23-02-22,3.30 PM,0,Self,Fumigation ,CRM 
