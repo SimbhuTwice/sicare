@@ -58,7 +58,7 @@ S No,Client name ,Location ,Category ,Status ,Responsibilty,Completed On,Work co
 58,Cheers,Adyar,WareHouse,Done ,Vendor ,20-01-22,0,2655,Pending,Pest Control,CRM 
 59,Cheers ,Ayanavaram,Supermarket-Outlet,Done ,Vendor ,20-01-22,0,1416,Pending,Pest Control,Existing
 60,Trendlines LP Mainline,Velachery,Mall ,Done ,Sathish ,22-01-22,0,14160,Received ,Ac Work AMC,Existing
-61,ZI Clinic ,Alwarpet,Clinic,Done,Seyed,03-02-22,0,827,Pending,Chemical,Existing
+61,ZI Clinic ,Alwarpet,Clinic,Done,Saneel ,03-02-22,0,827,Received ,Chemical,Existing
 62,Delight home stays,Madippakkam ,Service Apartment ,Done ,Vendor ,04-02-22,0,11505,Received ,Pest Control,CRM 
 63,Trendlines LP Mainline,Adyar,Office ,Done ,Sathish ,10-02-22,0,531,Received ,Ac Work ,Existing
 64,Office,Adyar,Office,Done ,Dinesh ,09-02-22,8.00 PM ,0,Self,Fumigation ,CRM 
@@ -85,3 +85,4 @@ S No,Client name ,Location ,Category ,Status ,Responsibilty,Completed On,Work co
 85,Cheers,Anna Nagar,Supermarket-Outlet,Done ,Dinesh ,24-02-22,10.30 AM ,0,Self,Fumigation ,CRM 
 86,Cheers,Alwarpet,Supermarket-Outlet,Done ,Dinesh ,24-02-22,3.30 PM,0,Self,Fumigation ,CRM 
 87,Cheers ,Ayanavaram,Supermarket-Outlet,Done ,Dinesh ,24-02-22,2.30 PM,0,Self,Fumigation ,CRM 
+88,Hamsi Prakash ,Nungambakkam ,Residence ,Done ,Sathish ,25-02-22,1.30 PM ,1100,Self,Ac Work ,CRM 
