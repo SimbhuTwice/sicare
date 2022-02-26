@@ -78,11 +78,11 @@ S No,Client name ,Location ,Category ,Status ,Responsibilty,Completed On,Work co
 78,SI Care,Adyar,Office,Done ,Dinesh ,17-02-22,8.30 PM ,0,Self,Fumigation ,CRM 
 79,Safe Infra Office ,Nungambakkam ,Office,Done ,Dinesh ,17-02-22,8.30 PM ,0,Self,Fumigation ,CRM 
 80,Capital Tower ,Nungambakkam ,Office ,Done,Dinesh ,18-02-22,11.30 AM ,0,Self,Fumigation ,CRM 
-81,Trendline ,Adyar,Office,Done,Sathish ,21-02-22,10.30 AM ,1310,Self,Ac Work ,Existing
-82,Trendline VH,Valasaravakkam,Show room,Done,Sathish ,22-02-22,10.40 AM,3009,Self,Ac Work ,Existing
+81,Trendline ,Adyar,Office,Done,Sathish ,21-02-22,10.30 AM ,1310,Pending,Ac Work ,Existing
+82,Trendline VH,Valasaravakkam,Show room,Done,Sathish ,22-02-22,10.40 AM,3009,Pending,Ac Work ,Existing
 83,Cheers,Anna Nagar,Supermarket-Outlet,Done ,Dinesh ,23-02-22,11.30 AM ,0,Self,Fumigation ,CRM 
 84,Cheers,Alwarpet,Supermarket-Outlet,Done ,Dinesh ,23-02-22,3.30 PM,0,Self,Fumigation ,CRM 
 85,Cheers,Anna Nagar,Supermarket-Outlet,Done ,Dinesh ,24-02-22,10.30 AM ,0,Self,Fumigation ,CRM 
 86,Cheers,Alwarpet,Supermarket-Outlet,Done ,Dinesh ,24-02-22,3.30 PM,0,Self,Fumigation ,CRM 
 87,Cheers ,Ayanavaram,Supermarket-Outlet,Done ,Dinesh ,24-02-22,2.30 PM,0,Self,Fumigation ,CRM 
-88,Hamsi Prakash ,Nungambakkam ,Residence ,Done ,Sathish ,25-02-22,1.30 PM ,1100,Self,Ac Work ,CRM 
+88,Hamsi Prakash ,Nungambakkam ,Residence ,Done ,Sathish ,25-02-22,1.30 PM ,1100,Pending,Ac Work ,CRM 
