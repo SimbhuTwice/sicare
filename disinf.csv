@@ -62,7 +62,7 @@ S No,Client name ,Location ,Category ,Status ,Responsibilty,Completed On,Work co
 62,Delight home stays,Madippakkam ,Service Apartment ,Done ,Vendor ,04-02-22,0,11505,Received ,Pest Control,CRM 
 63,Trendlines LP Mainline,Adyar,Office ,Done ,Sathish ,10-02-22,0,531,Received ,Ac Work ,Existing
 64,Office,Adyar,Office,Done ,Dinesh ,09-02-22,8.00 PM ,0,Self,Fumigation ,CRM 
-65,Hotel Milan,Velachery ,Hotel ,Done ,Vendor ,10-02-22,0,3060,Pending,Pest Control,CRM 
+65,Hotel Milan,Velachery ,Hotel ,Done ,Vendor ,28-02-22,0,3304,Pending,Pest Control,CRM 
 66,Cheers,Adyar,WareHouse,Done ,Dinesh ,10-02-22,7.30 PM,0,Self,Fumigation ,CRM 
 67,Cheers ,Adyar,GRN Office ,Done ,Dinesh ,10-02-22,7.40 PM,0,Self,Fumigation ,CRM 
 68,Desika Chari ,Anna Nagar,Residence ,Done ,Sathish ,11-02-22,0,10250,Pending,Ac Work ,Selva
@@ -87,3 +87,6 @@ S No,Client name ,Location ,Category ,Status ,Responsibilty,Completed On,Work co
 87,Cheers ,Ayanavaram,Supermarket-Outlet,Done ,Dinesh ,24-02-22,2.30 PM,0,Self,Fumigation ,CRM 
 88,Hamsi Prakash ,Nungambakkam ,Residence ,Done ,Sathish ,25-02-22,1.30 PM ,1100,Pending,Ac Work ,CRM 
 89,Capital Tower ,Nungambakkam ,Office ,Done,Dinesh ,28-02-22,7.30 PM,0,Self ,Fumigation ,CRM 
+90,Cheers,Anna Nagar,Supermarket-Outlet,Done ,Dinesh ,24-02-22,3.30 PM ,0,Self,Fumigation ,CRM 
+91,Cheers,Alwarpet,Supermarket-Outlet,Done ,Dinesh ,24-02-22,4.30 PM,0,Self,Fumigation ,CRM 
+92,Cheers ,Ayanavaram,Supermarket-Outlet,Done ,Dinesh ,24-02-22,5.30 PM,0,Self,Fumigation ,CRM 
