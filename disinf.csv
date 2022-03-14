@@ -1,101 +1,101 @@
 S No,Client name ,Location ,Category ,Status ,Responsibilty,Completed On,Work completed time , Amount ,Payment Status,Service Type ,Source 
-1,Cheers ,Annangar,Supermarket-Outlet,Done ,Dinesh ,17-01-22,1.00 PM,0,Self,Fumigation ,CRM 
-2,Cheers ,Nungambakkam ,Supermarket-Outlet,Done ,Dinesh ,17-01-22,1.00 PM,0,Self,Fumigation ,CRM 
-3,Shankar Basu ,Perungudi ,Residence ,Done ,Dinesh ,17-01-22,4.00 PM,2000,Received ,Fumigation ,Social Media
-4,SIB ,T Nagar,Bank ,Done ,Dinesh ,17-01-22,5.30 PM ,0,Self,Fumigation ,Existing
-5,Punitha,Valluvar Kottam ,Residence ,Done ,Dinesh ,17-01-22,7.30 PM,900,Received ,Fumigation ,Rakesh
-6,Cheers ,Annanagar,Supermarket-Outlet,Done ,Dinesh ,18-01-22,8.00 AM,0,Self,Fumigation ,CRM 
-7,Cheers ,Nungambakkam ,Supermarket-Outlet,Done ,Dinesh ,18-01-22,8.45 AM ,0,Self,Fumigation ,CRM 
-8,Cheers ,Adyar,Supermarket-Outlet,Done ,Dinesh ,18-01-22,9.45 AM ,0,Self,Fumigation ,CRM 
-9,Cheers ,Adyar,Office ,Done ,Dinesh ,18-01-22,7.30 PM ,0,Self,Fumigation ,CRM 
-10,Cheers ,Annanagar,Supermarket-Outlet,Done ,Dinesh ,18-01-22,8.00 AM ,0,Self,Fumigation ,CRM 
-11,Cheers ,Nungambakkam ,Supermarket-Outlet,Done ,Dinesh ,18-01-22,8.45 AM ,0,Self,Fumigation ,CRM 
-12,Cheers ,Adyar,Supermarket-Outlet,Done ,Dinesh ,18-01-22,9.45 AM ,0,Self,Fumigation ,CRM 
-13,Cheers ,Adyar,Office ,Done ,Dinesh ,18-01-22,7.30 AM ,0,Self,Fumigation ,CRM 
-14,Cheers ,Annanagar,Supermarket-Outlet,Done ,Dinesh ,19-01-22,8.00 AM ,0,Self,Fumigation ,CRM 
-15,Cheers ,Nungambakkam ,Supermarket-Outlet,Done ,Dinesh ,19-01-22,8.45 AM ,0,Self,Fumigation ,CRM 
-16,Sri ram,Besant Nagar,Residence,Done ,Dinesh ,19-01-22,5.30 PM ,1000,Received ,Fumigation ,Social Media
-17,Cheers ,Nungambakkam ,Supermarket-Outlet,Done ,Dinesh ,20-01-22,8.00 AM ,0,Self,Fumigation ,CRM 
-18,Cheers ,Annanagar ,Supermarket-Outlet,Done ,Dinesh ,20-01-22,9.30 AM ,0,Self,Fumigation ,CRM 
-19,SIB ,Nungambakkam ,Bank ,Done ,Dinesh ,20-01-22,10.30 AM ,0,Self,Fumigation ,Existing
-20,Cheers ,Ayanavaram,Supermarket-Outlet,Done ,Dinesh ,20-01-22,9.30 PM ,0,Self,Fumigation ,CRM 
-21,Indian Bank,George Town,Bank ,Done ,Dinesh ,20-01-22,4.00 PM ,1859,Received ,Fumigation ,CRM 
-22,John Mahendran,T.Nagar,Residence ,Done ,Dinesh ,20-01-22,3.30 PM ,1000,Received ,Fumigation ,Social Media
-23,Cheers ,Adyar,Supermarket-Outlet,Done ,Dinesh ,21-01-22,2.20 PM ,0,Self,Fumigation ,CRM 
-24,Primal Patterns,Besant Nagar,Gym,Done,Dinesh ,22-01-22,1.30 PM ,1770,Received ,Fumigation ,Existing
-25,Cheers,Nungambakkam,Supermarket-Outlet,Done,Dinesh ,22-01-22,12.00 PM,0,Self,Fumigation ,CRM 
-26,Hyundai ,Sriperumathur ,Show room,Done,Dinesh ,22-01-22,3.30 PM ,8830,Pending,Fumigation ,Saneel 
-27,Safe Infra Office ,Nungambakkam,Office,Done,Dinesh ,22-01-22,1.00 PM,0,Self,Fumigation ,CRM 
-28,SIB ,Nungambakkam RO,Bank ,Done ,Dinesh ,24-01-22,10.00 AM ,0,Self,Fumigation ,Existing
-30,Cheers,Nungambakkam ,Supermarket-Outlet,Done ,Dinesh ,24-01-22,11.00 AM ,0,Self,Fumigation ,CRM 
-31,Cheers ,Adyar,Supermarket-Outlet,Done ,Dinesh ,24-01-22,8.00 AM ,0,Self,Fumigation ,CRM 
-32,SI Care,Adyar,Office,Done ,Dinesh ,24-01-22,8.30 PM ,0,Self,Fumigation ,CRM 
-33,Cheers,Anna Nagar,Supermarket-Outlet,Done ,Dinesh ,25-01-22,10.30 AM ,0,Self,Fumigation ,CRM 
-34,Dhurv ,Santhome,Residence,Done ,Dinesh ,25-01-22,10.30 AM ,600,Received ,Fumigation ,Social Media
-35,Shekar A,Kilpauk,Residence,Done,Dinesh ,27-01-22,11.30 AM ,1000,Received ,Fumigation ,Social Media
-36,Cheers,Anna nagar,Supermarket-Outlet,Done,Dinesh ,27-01-22,1:00 PM,0,Self,Fumigation ,CRM 
-37,Cheers,Nungambakkam,Supermarket-Outlet,Done,Dinesh ,27-01-22,1.30 PM ,0,Self,Fumigation ,CRM 
-38,Cheers,Adyar,Supermarket-Outlet,Done,Dinesh ,27-01-22,3.30 PM ,0,Self,Fumigation ,CRM 
-39,Cheers ,Annangar,Supermarket-Outlet,Done ,Dinesh ,28-01-22,3.00 PM,0,Self,Fumigation ,CRM 
-40,Cheers ,Ayanavaram,Supermarket-Outlet,Done ,Dinesh ,28-01-22,3.30 PM ,0,Self,Fumigation ,CRM 
-41,Cheers ,Ayanavaram ,Supermarket-Outlet,Done ,Dinesh ,31-01-22,11:00 AM,0,Self,Fumigation ,CRM 
-42,Sekar A,Kilpauk ,Residence ,Done ,Dinesh ,31-01-22,11.30 AM ,1000,Received ,Fumigation ,Social Media
-43,Jayashree ,Adayar ,Residence ,Done ,Dinesh ,31-01-22,4.30 PM,1000,Received ,Fumigation ,Social Media
-44,Lakshitha,Royapettah,Residence,Done ,Dinesh ,01-02-22,11.20 AM ,1000,Received ,Fumigation ,Rakesh
-45,Cheers ,Anna nagar ,Supermarket-Outlet,Done ,Dinesh ,02-02-22,2.00 PM,0,Self,Fumigation ,CRM 
-46,Cheers ,Nungambakkam ,Supermarket-Outlet,Done ,Dinesh ,02-02-22,2.30 PM ,0,Self,Fumigation ,CRM 
-47,Mrs Ramya ,West Mugapair ,Residence ,Done ,Dinesh ,02-02-22,11.00 AM,3000,Received ,Fumigation ,Rakesh
-48,Office,Adyar,Office,Done ,Dinesh ,03-02-22,8.30 PM ,0,Self,Fumigation ,CRM 
-49,Hotel Metro Sagar ,Saidapet ,Hotel ,Done ,Vendor ,16-01-22,0,3068,Received ,Pest Control,CRM 
-50,SI Care,Adyar,Office,Done ,Dinesh ,05-02-22,6.30 PM ,0,Self,Fumigation ,CRM 
-51,Srikumar V,Kilpauk,Residence ,Done ,Dinesh ,07-02-22,8.30 PM ,1300,Received ,Fumigation ,Rakesh
-52,Cheers,Anna Nagar,Supermarket-Outlet,Done ,Dinesh ,08-02-22,2.00 PM,0,Self,Fumigation ,CRM 
-53,Cheers,Ayanavaram,Supermarket-Outlet,Done ,Dinesh ,08-02-22,2.30 PM ,0,Self,Fumigation ,CRM 
-54,Cheers ,Nungambakkam ,Supermarket-Outlet,Done ,Vendor ,04-01-22,0,2124,Pending,Pest Control,CRM 
-55,Cheers ,Anna Nagar,Supermarket-Outlet,Done ,Vendor ,20-01-22,0,2655,Pending,Pest Control,CRM 
-56,Cheers,Adyar,WareHouse,Done ,Vendor ,20-01-22,0,2950,Pending,Pest Control,CRM 
-57,Safe Infra Office ,Adyar,Office,Done ,Vendor ,20-01-22,0,2124,Pending,Pest Control,CRM 
-58,Cheers,Adyar,WareHouse,Done ,Vendor ,20-01-22,0,2655,Pending,Pest Control,CRM 
-59,Cheers ,Ayanavaram,Supermarket-Outlet,Done ,Vendor ,20-01-22,0,1416,Pending,Pest Control,Existing
-60,LP Mainline,Velachery,Mall ,Done ,Sathish ,22-01-22,0,14160,Received ,Ac Work AMC,Existing
-61,ZI Clinic ,Alwarpet,Clinic,Done,Saneel ,03-02-22,0,827,Received ,Chemical,Existing
-62,Delight home stays,Madippakkam ,Service Apartment ,Done ,Vendor ,04-02-22,0,11505,Received ,Pest Control,CRM 
-63,Trendlines LP Mainline,Adyar,Office ,Done ,Sathish ,10-02-22,0,531,Received ,Ac Work ,Existing
-64,Office,Adyar,Office,Done ,Dinesh ,09-02-22,8.00 PM ,0,Self,Fumigation ,CRM 
-65,Hotel Milan,Velachery ,Hotel ,Done ,Vendor ,28-02-22,0,3304,Pending,Pest Control,CRM 
-66,Cheers,Adyar,WareHouse,Done ,Dinesh ,10-02-22,7.30 PM,0,Self,Fumigation ,CRM 
-67,Cheers ,Adyar,GRN Office ,Done ,Dinesh ,10-02-22,7.40 PM,0,Self,Fumigation ,CRM 
-68,Desika Chari ,Anna Nagar,Residence ,Done ,Sathish ,11-02-22,0,10250,Received ,Ac Work ,Selva
-69,Scan India ,T Nagar ,Office ,Done ,Vendor ,09-02-22,0,2301,Received ,Pest Control,Rakesh
-70,SI Care,Adyar,Office,Done ,Dinesh ,14-02-22,8.30 PM ,0,Self,Fumigation ,CRM 
-71,Cheers ,Adyar,Supermarket-Outlet,Done ,Dinesh ,15-02-22,1.00 PM,0,Self,Fumigation ,CRM 
-72, VH PMC ,Velachery,Mall ,Done,Sathish ,16-02-22,11.00 AM,16992,Received ,Ac Work AMC,Existing
-73, LP EA,Royapettah,Mall ,Done ,Sathish ,16-02-22,11.00 AM,11328,Received ,Ac Work AMC,Existing
-74,Cheers,Anna Nagar,Supermarket-Outlet,Done ,Dinesh ,08-02-22,4.30 PM,0,Self,Fumigation ,CRM 
-75,Cheers,Alwarpet,Supermarket-Outlet,Done ,Dinesh ,17-02-22,3.30 PM,0,Self,Fumigation ,CRM 
-76,Cheers ,Ayanavaram,Supermarket-Outlet,Done ,Dinesh ,17-02-22,4.30 PM,0,Self,Fumigation ,CRM 
-77,Cheers,Anna Nagar,Supermarket-Outlet,Done ,Dinesh ,17-02-22,4.45 PM,0,Self,Fumigation ,CRM 
-78,SI Care,Adyar,Office,Done ,Dinesh ,17-02-22,8.30 PM ,0,Self,Fumigation ,CRM 
-79,Safe Infra Office ,Nungambakkam ,Office,Done ,Dinesh ,17-02-22,8.30 PM ,0,Self,Fumigation ,CRM 
-80,Capital Tower ,Nungambakkam ,Office ,Done,Dinesh ,18-02-22,11.30 AM ,0,Self,Fumigation ,CRM 
-81,Trendline ,Adyar,Office,Done,Sathish ,21-02-22,10.30 AM ,1310,Pending,Ac Work ,Existing
-82,Trendline VH,Valasaravakkam,Show room,Done,Sathish ,22-02-22,10.40 AM,3009,Pending,Ac Work ,Existing
-83,Cheers,Anna Nagar,Supermarket-Outlet,Done ,Dinesh ,23-02-22,11.30 AM ,0,Self,Fumigation ,CRM 
-84,Cheers,Alwarpet,Supermarket-Outlet,Done ,Dinesh ,23-02-22,3.30 PM,0,Self,Fumigation ,CRM 
-85,Cheers,Anna Nagar,Supermarket-Outlet,Done ,Dinesh ,24-02-22,10.30 AM ,0,Self,Fumigation ,CRM 
-86,Cheers,Alwarpet,Supermarket-Outlet,Done ,Dinesh ,24-02-22,3.30 PM,0,Self,Fumigation ,CRM 
-87,Cheers ,Ayanavaram,Supermarket-Outlet,Done ,Dinesh ,24-02-22,2.30 PM,0,Self,Fumigation ,CRM 
-88,Hamsi Prakash ,Nungambakkam ,Residence ,Done ,Sathish ,25-02-22,1.30 PM ,1100,Received ,Ac Work ,CRM 
-89,Capital Tower ,Nungambakkam ,Office ,Done,Dinesh ,28-02-22,7.30 PM,0,Self ,Fumigation ,CRM 
-90,Cheers,Anna Nagar,Supermarket-Outlet,Done ,Dinesh ,01-03-22,3.30 PM ,0,Self,Fumigation ,CRM 
-91,Cheers,Alwarpet,Supermarket-Outlet,Done ,Dinesh ,01-03-22,4.30 PM,0,Self,Fumigation ,CRM 
-92,Cheers ,Ayanavaram,Supermarket-Outlet,Done ,Dinesh ,01-03-22,5.30 PM,0,Self,Fumigation ,CRM 
-93,Deccan Event ,Haddows Raod,Residence ,Done,Sathish ,02-03-22,0,8939,Pending,Ac Work ,Rakesh
-94,Deccan Event ,Solinganallur,Residence ,Done,Sathish ,02-03-22,0,6372,Pending,Ac Work ,Rakesh
-95,Scan India ,Abiramapuram ,Residence ,Done ,Vendor ,04-03-22,0,2301,Pending,Pest Control,Rakesh
-96,Tejas Mehta ,Nungambakkam ,Residence ,Done ,Self ,10-03-22,0,4450,Received ,Ac Work,CRM 
-97,Cheers,Anna Nagar,Supermarket-Outlet,Done ,Dinesh ,11-03-22,9.30 AM ,0,Self,Fumigation ,CRM 
-98,Cheers,Ayanavaram,Supermarket-Outlet,Done ,Dinesh ,11-03-22,10.30 AM,0,Self,Fumigation ,CRM 
-99,Cheers,Alwarpet,Supermarket-Outlet,Done ,Dinesh ,11-02-22,3.45 PM,0,Self,Fumigation ,CRM 
-100,Trendline VH,Valasaravakkam,Show room,Done,Sathish ,12-03-22,10.40 AM,3245,Pending,Ac Work ,Existing
-101,Durai ,Haddows Raod,Apartment,Partially Done ,Vendor ,12-03-22,0,2450,Pending,Pest Control,Rakesh
+1,Cheers ,Annangar,Supermarket-Outlet,Done ,Dinesh ,17/01/22,1.00 PM,0,Self,Fumigation ,CRM 
+2,Cheers ,Nungambakkam ,Supermarket-Outlet,Done ,Dinesh ,17/01/22,1.00 PM,0,Self,Fumigation ,CRM 
+3,Shankar Basu ,Perungudi ,Residence ,Done ,Dinesh ,17/01/22,4.00 PM,2000,Received ,Fumigation ,Social Media
+4,SIB ,T Nagar,Bank ,Done ,Dinesh ,17/01/22,5.30 PM ,0,Self,Fumigation ,Existing
+5,Punitha,Valluvar Kottam ,Residence ,Done ,Dinesh ,17/01/22,7.30 PM,900,Received ,Fumigation ,Rakesh
+6,Cheers ,Annanagar,Supermarket-Outlet,Done ,Dinesh ,18/01/22,8.00 AM,0,Self,Fumigation ,CRM 
+7,Cheers ,Nungambakkam ,Supermarket-Outlet,Done ,Dinesh ,18/01/22,8.45 AM ,0,Self,Fumigation ,CRM 
+8,Cheers ,Adyar,Supermarket-Outlet,Done ,Dinesh ,18/01/22,9.45 AM ,0,Self,Fumigation ,CRM 
+9,Cheers ,Adyar,Office ,Done ,Dinesh ,18/01/22,7.30 PM ,0,Self,Fumigation ,CRM 
+10,Cheers ,Annanagar,Supermarket-Outlet,Done ,Dinesh ,18/01/22,8.00 AM ,0,Self,Fumigation ,CRM 
+11,Cheers ,Nungambakkam ,Supermarket-Outlet,Done ,Dinesh ,18/01/22,8.45 AM ,0,Self,Fumigation ,CRM 
+12,Cheers ,Adyar,Supermarket-Outlet,Done ,Dinesh ,18/01/22,9.45 AM ,0,Self,Fumigation ,CRM 
+13,Cheers ,Adyar,Office ,Done ,Dinesh ,18/01/22,7.30 AM ,0,Self,Fumigation ,CRM 
+14,Cheers ,Annanagar,Supermarket-Outlet,Done ,Dinesh ,19/01/22,8.00 AM ,0,Self,Fumigation ,CRM 
+15,Cheers ,Nungambakkam ,Supermarket-Outlet,Done ,Dinesh ,19/01/22,8.45 AM ,0,Self,Fumigation ,CRM 
+16,Sri ram,Besant Nagar,Residence,Done ,Dinesh ,19/01/22,5.30 PM ,1000,Received ,Fumigation ,Social Media
+17,Cheers ,Nungambakkam ,Supermarket-Outlet,Done ,Dinesh ,20/01/22,8.00 AM ,0,Self,Fumigation ,CRM 
+18,Cheers ,Annanagar ,Supermarket-Outlet,Done ,Dinesh ,20/01/22,9.30 AM ,0,Self,Fumigation ,CRM 
+19,SIB ,Nungambakkam ,Bank ,Done ,Dinesh ,20/01/22,10.30 AM ,0,Self,Fumigation ,Existing
+20,Cheers ,Ayanavaram,Supermarket-Outlet,Done ,Dinesh ,20/01/22,9.30 PM ,0,Self,Fumigation ,CRM 
+21,Indian Bank,George Town,Bank ,Done ,Dinesh ,20/01/22,4.00 PM ,1859,Received ,Fumigation ,CRM 
+22,John Mahendran,T.Nagar,Residence ,Done ,Dinesh ,20/01/22,3.30 PM ,1000,Received ,Fumigation ,Social Media
+23,Cheers ,Adyar,Supermarket-Outlet,Done ,Dinesh ,21/01/22,2.20 PM ,0,Self,Fumigation ,CRM 
+24,Primal Patterns,Besant Nagar,Gym,Done,Dinesh ,22/01/22,1.30 PM ,1770,Received ,Fumigation ,Existing
+25,Cheers,Nungambakkam,Supermarket-Outlet,Done,Dinesh ,22/01/22,12.00 PM,0,Self,Fumigation ,CRM 
+26,Hyundai ,Sriperumathur ,Show room,Done,Dinesh ,22/01/22,3.30 PM ,8830,Pending,Fumigation ,Saneel 
+27,Safe Infra Office ,Nungambakkam,Office,Done,Dinesh ,22/01/22,1.00 PM,0,Self,Fumigation ,CRM 
+28,SIB ,Nungambakkam RO,Bank ,Done ,Dinesh ,24/01/22,10.00 AM ,0,Self,Fumigation ,Existing
+30,Cheers,Nungambakkam ,Supermarket-Outlet,Done ,Dinesh ,24/01/22,11.00 AM ,0,Self,Fumigation ,CRM 
+31,Cheers ,Adyar,Supermarket-Outlet,Done ,Dinesh ,24/01/22,8.00 AM ,0,Self,Fumigation ,CRM 
+32,SI Care,Adyar,Office,Done ,Dinesh ,24/01/22,8.30 PM ,0,Self,Fumigation ,CRM 
+33,Cheers,Anna Nagar,Supermarket-Outlet,Done ,Dinesh ,25/01/22,10.30 AM ,0,Self,Fumigation ,CRM 
+34,Dhurv ,Santhome,Residence,Done ,Dinesh ,25/01/22,10.30 AM ,600,Received ,Fumigation ,Social Media
+35,Shekar A,Kilpauk,Residence,Done,Dinesh ,27/01/22,11.30 AM ,1000,Received ,Fumigation ,Social Media
+36,Cheers,Anna nagar,Supermarket-Outlet,Done,Dinesh ,27/01/22,1:00 PM,0,Self,Fumigation ,CRM 
+37,Cheers,Nungambakkam,Supermarket-Outlet,Done,Dinesh ,27/01/22,1.30 PM ,0,Self,Fumigation ,CRM 
+38,Cheers,Adyar,Supermarket-Outlet,Done,Dinesh ,27/01/22,3.30 PM ,0,Self,Fumigation ,CRM 
+39,Cheers ,Annangar,Supermarket-Outlet,Done ,Dinesh ,28/01/22,3.00 PM,0,Self,Fumigation ,CRM 
+40,Cheers ,Ayanavaram,Supermarket-Outlet,Done ,Dinesh ,28/01/22,3.30 PM ,0,Self,Fumigation ,CRM 
+41,Cheers ,Ayanavaram ,Supermarket-Outlet,Done ,Dinesh ,31/01/22,11:00 AM,0,Self,Fumigation ,CRM 
+42,Sekar A,Kilpauk ,Residence ,Done ,Dinesh ,31/01/22,11.30 AM ,1000,Received ,Fumigation ,Social Media
+43,Jayashree ,Adayar ,Residence ,Done ,Dinesh ,31/01/22,4.30 PM,1000,Received ,Fumigation ,Social Media
+44,Lakshitha,Royapettah,Residence,Done ,Dinesh ,01/02/22,11.20 AM ,1000,Received ,Fumigation ,Rakesh
+45,Cheers ,Anna nagar ,Supermarket-Outlet,Done ,Dinesh ,02/02/22,2.00 PM,0,Self,Fumigation ,CRM 
+46,Cheers ,Nungambakkam ,Supermarket-Outlet,Done ,Dinesh ,02/02/22,2.30 PM ,0,Self,Fumigation ,CRM 
+47,Mrs Ramya ,West Mugapair ,Residence ,Done ,Dinesh ,02/02/22,11.00 AM,3000,Received ,Fumigation ,Rakesh
+48,Office,Adyar,Office,Done ,Dinesh ,03/02/22,8.30 PM ,0,Self,Fumigation ,CRM 
+49,Hotel Metro Sagar ,Saidapet ,Hotel ,Done ,Vendor ,16/01/22,0,3068,Received ,Pest Control,CRM 
+50,SI Care,Adyar,Office,Done ,Dinesh ,05/02/22,6.30 PM ,0,Self,Fumigation ,CRM 
+51,Srikumar V,Kilpauk,Residence ,Done ,Dinesh ,07/02/22,8.30 PM ,1300,Received ,Fumigation ,Rakesh
+52,Cheers,Anna Nagar,Supermarket-Outlet,Done ,Dinesh ,08/02/22,2.00 PM,0,Self,Fumigation ,CRM 
+53,Cheers,Ayanavaram,Supermarket-Outlet,Done ,Dinesh ,08/02/22,2.30 PM ,0,Self,Fumigation ,CRM 
+54,Cheers ,Nungambakkam ,Supermarket-Outlet,Done ,Vendor ,04/01/22,0,2124,Pending,Pest Control,CRM 
+55,Cheers ,Anna Nagar,Supermarket-Outlet,Done ,Vendor ,20/01/22,0,2655,Pending,Pest Control,CRM 
+56,Cheers,Adyar,WareHouse,Done ,Vendor ,20/01/22,0,2950,Pending,Pest Control,CRM 
+57,Safe Infra Office ,Adyar,Office,Done ,Vendor ,20/01/22,0,2124,Pending,Pest Control,CRM 
+58,Cheers,Adyar,WareHouse,Done ,Vendor ,20/01/22,0,2655,Pending,Pest Control,CRM 
+59,Cheers ,Ayanavaram,Supermarket-Outlet,Done ,Vendor ,20/01/22,0,1416,Pending,Pest Control,Existing
+60,LP Mainline,Velachery,Mall ,Done ,Sathish ,22/01/22,0,14160,Received ,Ac Work AMC,Existing
+61,ZI Clinic ,Alwarpet,Clinic,Done,Saneel ,03/02/22,0,827,Received ,Chemical,Existing
+62,Delight home stays,Madippakkam ,Service Apartment ,Done ,Vendor ,04/02/22,0,11505,Received ,Pest Control,CRM 
+63,Trendlines LP Mainline,Adyar,Office ,Done ,Sathish ,10/02/22,0,531,Received ,Ac Work ,Existing
+64,Office,Adyar,Office,Done ,Dinesh ,09/02/22,8.00 PM ,0,Self,Fumigation ,CRM 
+65,Hotel Milan,Velachery ,Hotel ,Done ,Vendor ,28/02/22,0,3304,Pending,Pest Control,CRM 
+66,Cheers,Adyar,WareHouse,Done ,Dinesh ,10/02/22,7.30 PM,0,Self,Fumigation ,CRM 
+67,Cheers ,Adyar,GRN Office ,Done ,Dinesh ,10/02/22,7.40 PM,0,Self,Fumigation ,CRM 
+68,Desika Chari ,Anna Nagar,Residence ,Done ,Sathish ,11/02/22,0,10250,Received ,Ac Work ,Selva
+69,Scan India ,T Nagar ,Office ,Done ,Vendor ,09/02/22,0,2301,Received ,Pest Control,Rakesh
+70,SI Care,Adyar,Office,Done ,Dinesh ,14/02/22,8.30 PM ,0,Self,Fumigation ,CRM 
+71,Cheers ,Adyar,Supermarket-Outlet,Done ,Dinesh ,15/02/22,1.00 PM,0,Self,Fumigation ,CRM 
+72, VH PMC ,Velachery,Mall ,Done,Sathish ,16/02/22,11.00 AM,16992,Received ,Ac Work AMC,Existing
+73, LP EA,Royapettah,Mall ,Done ,Sathish ,16/02/22,11.00 AM,11328,Received ,Ac Work AMC,Existing
+74,Cheers,Anna Nagar,Supermarket-Outlet,Done ,Dinesh ,08/02/22,4.30 PM,0,Self,Fumigation ,CRM 
+75,Cheers,Alwarpet,Supermarket-Outlet,Done ,Dinesh ,17/02/22,3.30 PM,0,Self,Fumigation ,CRM 
+76,Cheers ,Ayanavaram,Supermarket-Outlet,Done ,Dinesh ,17/02/22,4.30 PM,0,Self,Fumigation ,CRM 
+77,Cheers,Anna Nagar,Supermarket-Outlet,Done ,Dinesh ,17/02/22,4.45 PM,0,Self,Fumigation ,CRM 
+78,SI Care,Adyar,Office,Done ,Dinesh ,17/02/22,8.30 PM ,0,Self,Fumigation ,CRM 
+79,Safe Infra Office ,Nungambakkam ,Office,Done ,Dinesh ,17/02/22,8.30 PM ,0,Self,Fumigation ,CRM 
+80,Capital Tower ,Nungambakkam ,Office ,Done,Dinesh ,18/02/22,11.30 AM ,0,Self,Fumigation ,CRM 
+81,Trendline ,Adyar,Office,Done,Sathish ,21/02/22,10.30 AM ,1310,Pending,Ac Work ,Existing
+82,Trendline VH,Valasaravakkam,Show room,Done,Sathish ,22/02/22,10.40 AM,3009,Pending,Ac Work ,Existing
+83,Cheers,Anna Nagar,Supermarket-Outlet,Done ,Dinesh ,23/02/22,11.30 AM ,0,Self,Fumigation ,CRM 
+84,Cheers,Alwarpet,Supermarket-Outlet,Done ,Dinesh ,23/02/22,3.30 PM,0,Self,Fumigation ,CRM 
+85,Cheers,Anna Nagar,Supermarket-Outlet,Done ,Dinesh ,24/02/22,10.30 AM ,0,Self,Fumigation ,CRM 
+86,Cheers,Alwarpet,Supermarket-Outlet,Done ,Dinesh ,24/02/22,3.30 PM,0,Self,Fumigation ,CRM 
+87,Cheers ,Ayanavaram,Supermarket-Outlet,Done ,Dinesh ,24/02/22,2.30 PM,0,Self,Fumigation ,CRM 
+88,Hamsi Prakash ,Nungambakkam ,Residence ,Done ,Sathish ,25/02/22,1.30 PM ,1100,Received ,Ac Work ,CRM 
+89,Capital Tower ,Nungambakkam ,Office ,Done,Dinesh ,28/02/22,7.30 PM,0,Self ,Fumigation ,CRM 
+90,Cheers,Anna Nagar,Supermarket-Outlet,Done ,Dinesh ,01/03/22,3.30 PM ,0,Self,Fumigation ,CRM 
+91,Cheers,Alwarpet,Supermarket-Outlet,Done ,Dinesh ,01/03/22,4.30 PM,0,Self,Fumigation ,CRM 
+92,Cheers ,Ayanavaram,Supermarket-Outlet,Done ,Dinesh ,01/03/22,5.30 PM,0,Self,Fumigation ,CRM 
+93,Deccan Event ,Haddows Raod,Residence ,Done,Sathish ,02/03/22,0,8939,Pending,Ac Work ,Rakesh
+94,Deccan Event ,Solinganallur,Residence ,Done,Sathish ,02/03/22,0,6372,Pending,Ac Work ,Rakesh
+95,Scan India ,Abiramapuram ,Residence ,Done ,Vendor ,04/03/22,0,2301,Pending,Pest Control,Rakesh
+96,Tejas Mehta ,Nungambakkam ,Residence ,Done ,Self ,10/03/22,0,4450,Received ,Ac Work,CRM 
+97,Cheers,Anna Nagar,Supermarket-Outlet,Done ,Dinesh ,11/03/22,9.30 AM ,0,Self,Fumigation ,CRM 
+98,Cheers,Ayanavaram,Supermarket-Outlet,Done ,Dinesh ,11/03/22,10.30 AM,0,Self,Fumigation ,CRM 
+99,Cheers,Alwarpet,Supermarket-Outlet,Done ,Dinesh ,11/02/22,3.45 PM,0,Self,Fumigation ,CRM 
+100,Trendline VH,Valasaravakkam,Show room,Done,Sathish ,12/03/22,10.40 AM,3245,Pending,Ac Work ,Existing
+101,Durai ,Haddows Raod,Apartment,Partially Done,Vendor ,12/03/22,0,2450,Pending,Pest Control,Rakesh
