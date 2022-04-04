@@ -24,7 +24,7 @@ S No,Client name ,Location ,Category ,Work Status ,Responsibilty,Completed On,Wo
 23,Cheers ,Adyar,Supermarket-Outlet,Done,Dinesh ,21-01-22,2.20 PM ,0,Self,Fumigation ,CRM 
 24,Primal Patterns,Besant Nagar,Gym,Done,Dinesh ,22-01-22,1.30 PM ,1770,Received ,Fumigation ,Existing
 25,Cheers,Nungambakkam,Supermarket-Outlet,Done,Dinesh ,22-01-22,12.00 PM,0,Self,Fumigation ,CRM 
-26,Hyundai ,Sriperumathur ,Show room,Done,Dinesh ,22-01-22,3.30 PM ,8830,Pending,Fumigation ,Saneel 
+26,Hyundai ,Sriperumathur ,Show room,Done,Dinesh ,22-01-22,3.30 PM ,8830,Pending from client,Fumigation ,Saneel 
 27,Safe Infra Office ,Nungambakkam,Office,Done,Dinesh ,22-01-22,1.00 PM,0,Self,Fumigation ,CRM 
 28,SIB ,Nungambakkam RO,Bank ,Done,Dinesh ,24-01-22,10.00 AM ,0,Self,Fumigation ,Existing
 30,Cheers,Nungambakkam ,Supermarket-Outlet,Done,Dinesh ,24-01-22,11.00 AM ,0,Self,Fumigation ,CRM 
@@ -78,8 +78,8 @@ S No,Client name ,Location ,Category ,Work Status ,Responsibilty,Completed On,Wo
 78,SI Care,Adyar,Office,Done,Dinesh ,17-02-22,8.30 PM ,0,Self,Fumigation ,CRM 
 79,Safe Infra Office ,Nungambakkam ,Office,Done,Dinesh ,17-02-22,8.30 PM ,0,Self,Fumigation ,CRM 
 80,Capital Tower ,Nungambakkam ,Office ,Done,Dinesh ,18-02-22,11.30 AM ,0,Self,Fumigation ,CRM 
-81,Trendline ,Adyar,Office,Done,Sathish ,21-02-22,0,1310,Pending,Ac Work ,Existing
-82,Trendline VH,Valasaravakkam,Show room,Done,Sathish ,22-02-22,0,3009,Pending,Ac Work ,Existing
+81,Trendline ,Adyar,Office,Done,Sathish ,21-02-22,0,1310,Pending from client,Ac Work ,Existing
+82,Trendline VH,Valasaravakkam,Show room,Done,Sathish ,22-02-22,0,3009,Pending from client,Ac Work ,Existing
 83,Cheers,Anna Nagar,Supermarket-Outlet,Done,Dinesh ,23-02-22,11.30 AM ,0,Self,Fumigation ,CRM 
 84,Cheers,Alwarpet,Supermarket-Outlet,Done,Dinesh ,23-02-22,3.30 PM,0,Self,Fumigation ,CRM 
 85,Cheers,Anna Nagar,Supermarket-Outlet,Done,Dinesh ,24-02-22,10.30 AM ,0,Self,Fumigation ,CRM 
@@ -90,17 +90,17 @@ S No,Client name ,Location ,Category ,Work Status ,Responsibilty,Completed On,Wo
 90,Cheers,Anna Nagar,Supermarket-Outlet,Done,Dinesh ,01-03-22,3.30 PM ,0,Self,Fumigation ,CRM 
 91,Cheers,Alwarpet,Supermarket-Outlet,Done,Dinesh ,01-03-22,4.30 PM,0,Self,Fumigation ,CRM 
 92,Cheers ,Ayanavaram,Supermarket-Outlet,Done,Dinesh ,01-03-22,5.30 PM,0,Self,Fumigation ,CRM 
-93,Deccan Event ,Haddows Raod,Residence ,Done,Sathish ,02-03-22,0,8939,Pending,Ac Work ,Rakesh
-94,Deccan Event ,Solinganallur,Residence ,Done,Sathish ,02-03-22,0,6372,Pending,Ac Work ,Rakesh
+93,Deccan Event ,Haddows Raod,Residence ,Done,Sathish ,02-03-22,0,8939,Pending from client,Ac Work ,Rakesh
+94,Deccan Event ,Solinganallur,Residence ,Done,Sathish ,02-03-22,0,6372,Pending from client,Ac Work ,Rakesh
 95,Scan India ,Abiramapuram ,Residence ,Done,Vendor ,04-03-22,0,2301,Received ,Pest Control,Rakesh
 96,Tejas Mehta ,Nungambakkam ,Residence ,Done,Self ,10-03-22,0,4450,Received ,Ac Work,CRM 
 97,Cheers,Anna Nagar,Supermarket-Outlet,Done,Dinesh ,11-03-22,9.30 AM ,0,Self,Fumigation ,CRM 
 98,Cheers,Ayanavaram,Supermarket-Outlet,Done,Dinesh ,11-03-22,10.30 AM,0,Self,Fumigation ,CRM 
 99,Cheers,Alwarpet,Supermarket-Outlet,Done,Dinesh ,11-02-22,3.45 PM,0,Self,Fumigation ,CRM 
-100,Trendline VH,Valasaravakkam,Show room,Done,Sathish ,12-03-22,0,3245,Pending,Ac Work ,Existing
+100,Trendline VH,Valasaravakkam,Show room,Done,Sathish ,12-03-22,0,3245,Pending from client,Ac Work ,Existing
 101,Durai ,Haddows Raod,Apartment,Partially Done ,Vendor ,12-03-22,0,2450,Pending from client,Pest Control,Rakesh
 102,Sathyam Prakash,Choolaimedu ,Residence,Done,Sathish ,15-03-22,0,6350,Received ,Ac Work ,Selva
-103,Trendline Peter England,Valasaravakkam,Show room,Done,Sathish ,19-03-22,0,2124,Pending,Ac Work ,Existing
+103,Trendline Peter England,Valasaravakkam,Show room,Done,Sathish ,19-03-22,0,2124,Pending from client,Ac Work ,Existing
 104,Hamsi Prakash ,Nungambakkam ,Residence ,Done,Sathish ,21-03-22,0,3550,Received ,Ac Work ,CRM 
 105,SBI G Insurance ,Nungambakkam ,Bank ,Done,Vendor ,21-03-22,0,4872,Received ,Pest Control,Rakesh
 106,Cheers ,Alwarpet,Supermarket-Outlet,Done,Dinesh ,26-03-22,12.30 PM,0,Self,Fumigation ,CRM 
