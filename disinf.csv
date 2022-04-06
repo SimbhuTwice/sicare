@@ -90,7 +90,7 @@ S No,Client name ,Location ,Category ,Work Status ,Responsibilty,Completed On,Wo
 90,Cheers,Anna Nagar,Supermarket-Outlet,Done,Dinesh ,01-03-22,3.30 PM ,0,Self,Fumigation ,CRM 
 91,Cheers,Alwarpet,Supermarket-Outlet,Done,Dinesh ,01-03-22,4.30 PM,0,Self,Fumigation ,CRM 
 92,Cheers ,Ayanavaram,Supermarket-Outlet,Done,Dinesh ,01-03-22,5.30 PM,0,Self,Fumigation ,CRM 
-93,Deccan Event ,Haddows Raod,Residence ,Done,Sathish ,02-03-22,0,8939,Pending from client,Ac Work ,Rakesh
+93,Deccan Event ,Haddows Road,Residence ,Done,Sathish ,02-03-22,0,8939,Pending from client,Ac Work ,Rakesh
 94,Deccan Event ,Solinganallur,Residence ,Done,Sathish ,02-03-22,0,6372,Pending from client,Ac Work ,Rakesh
 95,Scan India ,Abiramapuram ,Residence ,Done,Vendor ,04-03-22,0,2301,Received ,Pest Control,Rakesh
 96,Tejas Mehta ,Nungambakkam ,Residence ,Done,Self ,10-03-22,0,4450,Received ,Ac Work,CRM 
@@ -98,7 +98,7 @@ S No,Client name ,Location ,Category ,Work Status ,Responsibilty,Completed On,Wo
 98,Cheers,Ayanavaram,Supermarket-Outlet,Done,Dinesh ,11-03-22,10.30 AM,0,Self,Fumigation ,CRM 
 99,Cheers,Alwarpet,Supermarket-Outlet,Done,Dinesh ,11-02-22,3.45 PM,0,Self,Fumigation ,CRM 
 100,Trendline VH,Valasaravakkam,Show room,Done,Sathish ,12-03-22,0,3245,Pending from client,Ac Work ,Existing
-101,Durai ,Haddows Raod,Apartment,Partially Done ,Vendor ,12-03-22,0,2450,Pending from client,Pest Control,Rakesh
+101,Durai ,Haddows Road,Apartment,Partially Done ,Vendor ,12-03-22,0,2450,Pending from client,Pest Control,Rakesh
 102,Sathyam Prakash,Choolaimedu ,Residence,Done,Sathish ,15-03-22,0,6350,Received ,Ac Work ,Selva
 103,Trendline Peter England,Valasaravakkam,Show room,Done,Sathish ,19-03-22,0,2124,Pending from client,Ac Work ,Existing
 104,Hamsi Prakash ,Nungambakkam ,Residence ,Done,Sathish ,21-03-22,0,3550,Received ,Ac Work ,CRM 
@@ -115,19 +115,19 @@ S No,Client name ,Location ,Category ,Work Status ,Responsibilty,Completed On,Wo
 115,South Indian Bank ,George Town,Bank ,Done,Vendor ,27-12-21,0,1770,Pending to Vendor,Pest Control,CRM 
 116,South Indian Bank ,Go Down ,Bank ,Done,Vendor ,28-12-21,0,1770,Pending to Vendor,Pest Control,CRM 
 117,SBI G Insurance ,T Nagar ,Bank ,Done,Vendor ,28-12-21,0,3540,Pending to Vendor,Pest Control,Rakesh
-118,Cheers ,Anna Nagar,Supermarket-Outlet,Done,Vendor ,08-02-22,0,2655,Pending to Vendor,Pest Control,CRM 
-119,Safe Infra Office ,Adyar,Office,Done,Vendor ,08-02-22,0,2124,Pending to Vendor,Pest Control,CRM 
-120,Cheers ,Ayanavaram,Supermarket-Outlet,Done,Vendor ,08-02-22,0,1416,Pending to Vendor,Pest Control,CRM 
-121,Safe Infra Office ,Adyar,Office,Done,Vendor ,08-02-22,0,2655,Pending to Vendor,Pest Control,CRM 
-122,Cheers Maya Motors,Adyar,WareHouse,Done,Vendor ,08-02-22,0,2950,Pending to Vendor,Pest Control,CRM 
-123,Scan India ,Abhiramapuram ,Residence ,Done ,Vendor ,04-03-22,0,2065,Pending to Vendor,Pest Control,Rakesh
-124,Scan India ,Abhiramapuram ,Residence ,Done ,Vendor ,04-03-22,0,2301,Received ,Pest Control,Rakesh
-125,Cheers ,Anna Nagar,Supermarket-Outlet,Done,Vendor ,21-02-22,0,2655,Pending to Vendor,Pest Control,CRM 
-126,Cheers Maya Motors ,Adyar,WareHouse,Done,Vendor ,21-02-22,0,2655,Pending to Vendor,Pest Control,CRM 
-127,Cheers ,Ayanavaram,Supermarket-Outlet,Done,Vendor ,08-02-22,0,1416,Pending to Vendor,Pest Control,CRM 
-128,Delight home stays,Madippakkam ,Service Apartment ,Done,Vendor ,08-02-22,0,10325,Pending to Vendor,Pest Control,Rakesh
+118,Cheers ,Anna Nagar,Supermarket-Outlet,Done,Vendor ,08-02-21,0,2655,Pending to Vendor,Pest Control,CRM 
+119,Safe Infra Office ,Adyar,Office,Done,Vendor ,08-02-21,0,2124,Pending to Vendor,Pest Control,CRM 
+120,Cheers ,Ayanavaram,Supermarket-Outlet,Done,Vendor ,08-02-21,0,1416,Pending to Vendor,Pest Control,CRM 
+121,Safe Infra Office ,Adyar,Office,Done,Vendor ,08-02-21,0,2655,Pending to Vendor,Pest Control,CRM 
+122,Cheers Maya Motors,Adyar,WareHouse,Done,Vendor ,08-02-21,0,2950,Pending to Vendor,Pest Control,CRM 
+123,Scan India ,Abhiramapuram ,Residence ,Done ,Vendor ,04-03-21,0,2065,Pending to Vendor,Pest Control,Rakesh
+124,Scan India ,Abhiramapuram ,Residence ,Done ,Vendor ,04-03-21,0,2301,Received ,Pest Control,Rakesh
+125,Cheers ,Anna Nagar,Supermarket-Outlet,Done,Vendor ,21-02-21,0,2655,Pending to Vendor,Pest Control,CRM 
+126,Cheers Maya Motors ,Adyar,WareHouse,Done,Vendor ,21-02-21,0,2655,Pending to Vendor,Pest Control,CRM 
+127,Cheers ,Ayanavaram,Supermarket-Outlet,Done,Vendor ,08-02-21,0,1416,Pending to Vendor,Pest Control,CRM 
+128,Delight home stays,Madippakkam ,Service Apartment ,Done,Vendor ,08-02-21,0,10325,Pending to Vendor,Pest Control,Rakesh
 129,South Indian Bank ,George Town,Bank ,Done,Vendor ,27-12-21,0,2124,Received ,Pest Control,CRM 
 130,South Indian Bank ,Go Down ,Bank ,Done,Vendor ,28-12-21,0,2124,Received ,Pest Control,CRM 
-131,Siesta,T Nagar ,Hotel ,Done,Vendor ,13-11-22,0,132160,Received ,Pest Control,CRM 
+131,Siesta,T Nagar ,Hotel ,Done,Vendor ,13-11-21,0,132160,Received ,Pest Control,CRM 
 132,Hotel Milan,Velachery ,Hotel ,Done,Vendor ,28-02-22,0,2301,Pending to Vendor,Pest Control,CRM 
-133,Goddy's,Haddows Raod,Restaurant ,Done,Sathish ,05-04-22,0,2900,Received ,Ac Work ,Rakesh
+133,Goddy's,Haddows Road,Restaurant ,Done,Sathish ,05-04-22,0,2900,Received ,Ac Work ,Rakesh
