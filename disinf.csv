@@ -99,8 +99,8 @@ S No,Client name ,Location ,Category ,Work Status ,Responsibilty,Completed On,Wo
 98,SI Care,Adyar,Office,Done,Dinesh ,17-02-22,8.30 PM ,0,Self,Fumigation ,CRM 
 99,Safe Infra Office ,Nungambakkam ,Office,Done,Dinesh ,17-02-22,8.30 PM ,0,Self,Fumigation ,CRM 
 100,Capital Tower ,Nungambakkam ,Office ,Done,Dinesh ,18-02-22,11.30 AM ,0,Self,Fumigation ,CRM 
-101,Trendline ,Adyar,Office,Done,Sathish ,21-02-22,0,1310,Pending from Client,Ac Work ,Existing
-102,Trendline VH,Valasaravakkam,Show room,Done,Sathish ,22-02-22,0,3009,Pending from Client,Ac Work ,Existing
+101,Trendline ,Adyar,Office,Done,Sathish ,21-02-22,0,1310,Received from Client,Ac Work ,Existing
+102,Trendline VH,Valasaravakkam,Show room,Done,Sathish ,22-02-22,0,3009,Received from Client,Ac Work ,Existing
 103,Cheers,Anna Nagar,Supermarket-Outlet,Done,Dinesh ,23-02-22,11.30 AM ,0,Self,Fumigation ,CRM 
 104,Cheers,Alwarpet,Supermarket-Outlet,Done,Dinesh ,23-02-22,3.30 PM,0,Self,Fumigation ,CRM 
 105,Cheers,Anna Nagar,Supermarket-Outlet,Done,Dinesh ,24-02-22,10.30 AM ,0,Self,Fumigation ,CRM 
@@ -119,10 +119,10 @@ S No,Client name ,Location ,Category ,Work Status ,Responsibilty,Completed On,Wo
 118,Tejas Mehta ,Nungambakkam ,Residence ,Done,Self ,10-03-22,0,4450,Received from Client,Ac Work,CRM 
 119,Cheers,Anna Nagar,Supermarket-Outlet,Done,Dinesh ,11-03-22,9.30 AM ,0,Self,Fumigation ,CRM 
 120,Cheers,Ayanavaram,Supermarket-Outlet,Done,Dinesh ,11-03-22,10.30 AM,0,Self,Fumigation ,CRM 
-121,Trendline VH,Valasaravakkam,Show room,Done,Sathish ,12-03-22,0,3245,Pending from Client,Ac Work ,Existing
+121,Trendline VH,Valasaravakkam,Show room,Done,Sathish ,12-03-22,0,3245,Received from Client,Ac Work ,Existing
 122,Durai ,Haddows Road,Apartment,Partially Done ,Vendor ,12-03-22,0,2450,Pending from Client,Pest Control,Rakesh
 123,Sathyam Prakash,Choolaimedu ,Residence,Done,Sathish ,15-03-22,0,6350,Received from Client,Ac Work ,Selva
-124,Trendline Peter England,Valasaravakkam,Show room,Done,Sathish ,19-03-22,0,2124,Pending from client,Ac Work ,Existing
+124,Trendline Peter England,Valasaravakkam,Show room,Done,Sathish ,19-03-22,0,2124,Received from Client,Ac Work ,Existing
 125,Hamsi Prakash ,Nungambakkam ,Residence ,Done,Sathish ,21-03-22,0,3550,Received from Client,Ac Work ,CRM 
 126,SBI G Insurance ,Nungambakkam ,Bank ,Done,Vendor ,21-03-22,0,4872,Received from Client,Pest Control,Rakesh
 127,Cheers ,Alwarpet,Supermarket-Outlet,Done,Dinesh ,26-03-22,12.30 PM,0,Self,Fumigation ,CRM 
@@ -131,6 +131,6 @@ S No,Client name ,Location ,Category ,Work Status ,Responsibilty,Completed On,Wo
 130,Cheers,Ayanavaram,Supermarket-Outlet,Done,Dinesh ,31-03-22,3.30 PM,0,Self,Fumigation ,CRM 
 131,Cheers,Anna Nagar,Supermarket-Outlet,Done,Dinesh ,31-03-22,9.30 AM ,0,Self,Fumigation ,CRM 
 132,Goddy's,Haddows Road,Restaurant ,Done,Sathish ,05-04-22,0,2900,Received from Client,Ac Work ,Rakesh
-133,Cheers ,Adyar,Office ,Done,Dinesh ,06-04-22,4:00 PM,0,Self,Fumigation ,CRM 
+133,Cheers ,Adyar,Office ,Done,Dinesh ,06-04-22,3.30 PM,0,Self,Fumigation ,CRM 
 134,Cheers ,Annanagar,Supermarket-Outlet,Done,Dinesh ,06-04-22,4.30 PM ,0,Self,Fumigation ,CRM 
 135,Cheers ,Nungambakkam ,Supermarket-Outlet,Done,Dinesh ,06-04-22,4.30 PM,0,Self,Fumigation ,CRM 
