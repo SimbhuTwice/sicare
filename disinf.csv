@@ -113,8 +113,8 @@ S No,Client name ,Location ,Category ,Work Status ,Responsibilty,Completed On,Wo
 112,Cheers,Anna Nagar,Supermarket-Outlet,Done,Dinesh ,01-03-22,3.30 PM ,0,Self,Fumigation ,CRM 
 113,Cheers,Alwarpet,Supermarket-Outlet,Done,Dinesh ,01-03-22,4.30 PM,0,Self,Fumigation ,CRM 
 114,Cheers ,Ayanavaram,Supermarket-Outlet,Done,Dinesh ,01-03-22,5.30 PM,0,Self,Fumigation ,CRM 
-115,Deccan Event ,Haddows Road,Residence ,Done,Sathish ,02-03-22,0,8939,Pending from Client,Ac Work ,Rakesh
-116,Deccan Event ,Solinganallur,Residence ,Done,Sathish ,02-03-22,0,46374,Pending from Client,Ac Work AMC,Rakesh
+115,Deccan Event ,Haddows Road,Residence ,Done,Sathish ,02-03-22,0,8939,Received from Client,Ac Work ,Rakesh
+116,Deccan Event ,Solinganallur,Residence ,Done,Sathish ,02-03-22,0,46374,Received from Client,Ac Work AMC,Rakesh
 117,Scan India ,Abiramapuram ,Residence ,Done,Vendor ,04-03-22,0,2301,Received from Client,Pest Control,Rakesh
 118,Tejas Mehta ,Nungambakkam ,Residence ,Done,Self ,10-03-22,0,4450,Received from Client,Ac Work,CRM 
 119,Cheers,Anna Nagar,Supermarket-Outlet,Done,Dinesh ,11-03-22,9.30 AM ,0,Self,Fumigation ,CRM 
