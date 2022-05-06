@@ -1487,3 +1487,295 @@ S.No,Date,Tele Caller,Description ,Contact Number,Status,Source,Category,Call Ty
 1487,05-05-22,Muniswari,Junk Lead,9624454621,Ringing no response,CRM,Residence,Inactive,Nil
 1488,05-05-22,Muniswari,Junk Lead,9003855592,Ringing no response,CRM,Residence,Inactive,Nil
 1489,05-05-22,Muniswari,Junk Lead,7898965681,Invalid number,CRM,Residence,Inactive,Nil
+1490,06-05-22,Eswarya,Junk Lead,9965747055,Not required,CRM,Residence,Inactive,Nil
+1491,06-05-22,Eswarya,Junk Lead,9965834953,Invalid number,CRM,Residence,Inactive,Nil
+1492,06-05-22,Eswarya,Junk Lead,9843253931,Not required,CRM,Residence,Inactive,Nil
+1493,06-05-22,Eswarya,Junk Lead,9942321212,Not required,CRM,Residence,Inactive,Nil
+1494,06-05-22,Eswarya,Junk Lead,9994524392,Invalid number,CRM,Residence,Inactive,Nil
+1495,06-05-22,Eswarya,Junk Lead,8693658899,Out of district,CRM,Residence,Inactive,Nil
+1496,06-05-22,Eswarya,Junk Lead,9843253931,Duplicate,CRM,Residence,Inactive,Nil
+1497,06-05-22,Eswarya,Junk Lead,9843253931,Duplicate,CRM,Residence,Inactive,Nil
+1498,06-05-22,Eswarya,Junk Lead,8883823390,Not required,CRM,Residence,Inactive,Nil
+1499,06-05-22,Eswarya,Junk Lead,9843253931,Duplicate,CRM,Residence,Inactive,Nil
+1500,06-05-22,Eswarya,Junk Lead,9856747253,Invalid number,CRM,Residence,Inactive,Nil
+1501,06-05-22,Eswarya,Junk Lead,9865933700,Not required,CRM,Residence,Inactive,Nil
+1502,06-05-22,Eswarya,Junk Lead,9843253931,Duplicate,CRM,Residence,Inactive,Nil
+1503,06-05-22,Eswarya,Junk Lead,8270067511,Invalid number,CRM,Residence,Inactive,Nil
+1504,06-05-22,Eswarya,Junk Lead,9843253931,Duplicate,CRM,Residence,Inactive,Nil
+1505,06-05-22,Eswarya,Junk Lead,9843253931,Duplicate,CRM,Residence,Inactive,Nil
+1506,06-05-22,Eswarya,Junk Lead,9944889920,Busy,CRM,Residence,Inactive,Nil
+1507,06-05-22,Eswarya,Junk Lead,9629538564,Out of district,CRM,Residence,Inactive,Nil
+1508,06-05-22,Eswarya,Junk Lead,9994220044,Not required,CRM,Residence,Inactive,Nil
+1509,06-05-22,Eswarya,Junk Lead,7502686829,Out of district,CRM,Residence,Inactive,Nil
+1510,06-05-22,Eswarya,Junk Lead,6383778952,Invalid number,CRM,Residence,Inactive,Nil
+1511,06-05-22,Eswarya,Junk Lead,9944885585,Out of district,CRM,Residence,Inactive,Nil
+1512,06-05-22,Eswarya,Junk Lead,9361333521,Invalid number,CRM,Residence,Inactive,Nil
+1513,06-05-22,Eswarya,Junk Lead,9621212136,Not required,CRM,Residence,Inactive,Nil
+1514,06-05-22,Eswarya,Junk Lead,7373659945,Invalid number,CRM,Residence,Inactive,Nil
+1515,06-05-22,Eswarya,Junk Lead,7299865200,Duplicate,CRM,Residence,Inactive,Nil
+1516,06-05-22,Eswarya,Junk Lead,9994512402,Invalid number,CRM,Residence,Inactive,Nil
+1517,06-05-22,Eswarya,Junk Lead,6382219523,Switched off ,CRM,Residence,Inactive,Nil
+1518,06-05-22,Eswarya,Junk Lead,9688062722,Invalid number,CRM,Residence,Inactive,Nil
+1519,06-05-22,Eswarya,Junk Lead,9942636524,Invalid number,CRM,Residence,Inactive,Nil
+1520,06-05-22,Eswarya,Junk Lead,9787661263,Duplicate,CRM,Residence,Inactive,Nil
+1521,06-05-22,Eswarya,Junk Lead,9787661263,Duplicate,CRM,Residence,Inactive,Nil
+1522,06-05-22,Eswarya,Junk Lead,9787661263,Duplicate,CRM,Residence,Inactive,Nil
+1523,06-05-22,Eswarya,Junk Lead,9787816365,Not required,CRM,Residence,Inactive,Nil
+1524,06-05-22,Eswarya,Junk Lead,8508372173,Not required,CRM,Residence,Inactive,Nil
+1525,06-05-22,Eswarya,Junk Lead,9843253931,Duplicate,CRM,Residence,Inactive,Nil
+1526,06-05-22,Eswarya,Junk Lead,9843253931,Duplicate,CRM,Residence,Inactive,Nil
+1527,06-05-22,Eswarya,Junk Lead,9843253931,Duplicate,CRM,Residence,Inactive,Nil
+1528,06-05-22,Eswarya,Junk Lead,9843253931,Duplicate,CRM,Residence,Inactive,Nil
+1529,06-05-22,Eswarya,Junk Lead,9843253931,Duplicate,CRM,Residence,Inactive,Nil
+1530,06-05-22,Eswarya,Junk Lead,9843253931,Duplicate,CRM,Residence,Inactive,Nil
+1531,06-05-22,Eswarya,Junk Lead,9843253931,Duplicate,CRM,Residence,Inactive,Nil
+1532,06-05-22,Eswarya,Junk Lead,9843253931,Duplicate,CRM,Residence,Inactive,Nil
+1533,06-05-22,Eswarya,Junk Lead,9843253931,Duplicate,CRM,Residence,Inactive,Nil
+1534,06-05-22,Eswarya,Junk Lead,9787661263,Duplicate,CRM,Residence,Inactive,Nil
+1535,06-05-22,Eswarya,Junk Lead,9787661263,Duplicate,CRM,Residence,Inactive,Nil
+1536,06-05-22,Eswarya,Junk Lead,9965747055,Duplicate,CRM,Residence,Inactive,Nil
+1537,06-05-22,Eswarya,Junk Lead,9965747055,Out of district,CRM,Residence,Inactive,Nil
+1538,06-05-22,Eswarya,Junk Lead,9715235831,Duplicate,CRM,Residence,Inactive,Nil
+1539,06-05-22,Eswarya,Junk Lead,9715235831,Duplicate,CRM,Residence,Inactive,Nil
+1540,06-05-22,Eswarya,Junk Lead,9715235831,Duplicate,CRM,Residence,Inactive,Nil
+1541,06-05-22,Eswarya,Junk Lead,9715235831,Duplicate,CRM,Residence,Inactive,Nil
+1542,06-05-22,Eswarya,Junk Lead,9715235831,Duplicate,CRM,Residence,Inactive,Nil
+1543,06-05-22,Eswarya,Junk Lead,9715235831,Duplicate,CRM,Residence,Inactive,Nil
+1544,06-05-22,Eswarya,Junk Lead,9843253931,Duplicate,CRM,Residence,Inactive,Nil
+1545,06-05-22,Eswarya,Junk Lead,9843253931,Duplicate,CRM,Residence,Inactive,Nil
+1546,06-05-22,Eswarya,Junk Lead,9443352641,Out of district,CRM,Residence,Inactive,Nil
+1547,06-05-22,Eswarya,Junk Lead,9443352641,Out of district,CRM,Residence,Inactive,Nil
+1548,06-05-22,Eswarya,Junk Lead,9443352641,Out of district,CRM,Residence,Inactive,Nil
+1549,06-05-22,Eswarya,Junk Lead,9443352641,Out of district,CRM,Residence,Inactive,Nil
+1550,06-05-22,Eswarya,Junk Lead,9443352641,Out of district,CRM,Residence,Inactive,Nil
+1551,06-05-22,Eswarya,Junk Lead,9443352641,Duplicate,CRM,Residence,Inactive,Nil
+1552,06-05-22,Eswarya,Junk Lead,9688176176,Not required,CRM,Residence,Inactive,Nil
+1553,06-05-22,Eswarya,Junk Lead,9688176176,Duplicate,CRM,Residence,Inactive,Nil
+1554,06-05-22,Eswarya,Junk Lead,9443352641,Duplicate,CRM,Residence,Inactive,Nil
+1555,06-05-22,Eswarya,Junk Lead,9443352641,Duplicate,CRM,Residence,Inactive,Nil
+1556,06-05-22,Eswarya,Junk Lead,9443352641,Duplicate,CRM,Residence,Inactive,Nil
+1557,06-05-22,Eswarya,Junk Lead,9443352641,Duplicate,CRM,Residence,Inactive,Nil
+1558,06-05-22,Eswarya,Junk Lead,9443352641,Out of district,CRM,Residence,Inactive,Nil
+1559,06-05-22,Eswarya,Junk Lead,9443352641,Duplicate,CRM,Residence,Inactive,Nil
+1560,06-05-22,Eswarya,Junk Lead,9443352641,Duplicate,CRM,Residence,Inactive,Nil
+1561,06-05-22,Eswarya,Junk Lead,9443352641,Duplicate,CRM,Residence,Inactive,Nil
+1562,06-05-22,Eswarya,Junk Lead,9443352641,Duplicate,CRM,Residence,Inactive,Nil
+1563,06-05-22,Eswarya,Junk Lead,9443352641,Duplicate,CRM,Residence,Inactive,Nil
+1564,06-05-22,Eswarya,Junk Lead,9443352641,Duplicate,CRM,Residence,Inactive,Nil
+1565,06-05-22,Eswarya,Junk Lead,9443352641,Duplicate,CRM,Residence,Inactive,Nil
+1566,06-05-22,Eswarya,Junk Lead,9943209407,Out of district,CRM,Residence,Inactive,Nil
+1567,06-05-22,Eswarya,Junk Lead,9943209407,Duplicate,CRM,Residence,Inactive,Nil
+1568,06-05-22,Eswarya,Junk Lead,9943209407,Duplicate,CRM,Residence,Inactive,Nil
+1569,06-05-22,Eswarya,Junk Lead,8608908899,Invalid number,CRM,Residence,Inactive,Nil
+1570,06-05-22,Eswarya,Junk Lead,9786330464,Not required,CRM,Residence,Inactive,Nil
+1571,06-05-22,Eswarya,Junk Lead,8838523609,Not required,CRM,Residence,Inactive,Nil
+1572,06-05-22,Eswarya,Junk Lead,9443352641,Duplicate,CRM,Residence,Inactive,Nil
+1573,06-05-22,Eswarya,Junk Lead,9443352641,Duplicate,CRM,Residence,Inactive,Nil
+1574,06-05-22,Eswarya,Junk Lead,9443352641,Duplicate,CRM,Residence,Inactive,Nil
+1575,06-05-22,Eswarya,Junk Lead,9443352641,Duplicate,CRM,Residence,Inactive,Nil
+1576,06-05-22,Eswarya,Junk Lead,9786654189,Not required,CRM,Residence,Inactive,Nil
+1577,06-05-22,Eswarya,Junk Lead,9865554161,Not required,CRM,Residence,Inactive,Nil
+1578,06-05-22,Eswarya,Junk Lead,9865554161,Not required,CRM,Residence,Inactive,Nil
+1579,06-05-22,Eswarya,Junk Lead,9943512067,Out of district,CRM,Residence,Inactive,Nil
+1580,06-05-22,Eswarya,Junk Lead,9655162363,Not required,CRM,Residence,Inactive,Nil
+1581,06-05-22,Eswarya,Junk Lead,9787581076,Out of district,CRM,Residence,Inactive,Nil
+1582,06-05-22,Eswarya,Junk Lead,8248938783,Duplicate,CRM,Residence,Inactive,Nil
+1583,06-05-22,Eswarya,Junk Lead,9843131288,Not required,CRM,Residence,Inactive,Nil
+1584,06-05-22,Eswarya,Junk Lead,9626858668,Not required,CRM,Residence,Inactive,Nil
+1585,06-05-22,Eswarya,Junk Lead,8608908899,Duplicate,CRM,Residence,Inactive,Nil
+1586,06-05-22,Eswarya,Junk Lead,9712333312,Out of district,CRM,Residence,Inactive,Nil
+1587,06-05-22,Eswarya,Junk Lead,9787195781,Duplicate,CRM,Residence,Inactive,Nil
+1588,06-05-22,Eswarya,Junk Lead,9159761747,Not required,CRM,Residence,Inactive,Nil
+1589,06-05-22,Eswarya,Junk Lead,9443128307,Not required,CRM,Residence,Inactive,Nil
+1590,06-05-22,Eswarya,Junk Lead,9443352641,Duplicate,CRM,Residence,Inactive,Nil
+1591,06-05-22,Eswarya,Junk Lead,9443352641,Duplicate,CRM,Residence,Inactive,Nil
+1592,06-05-22,Eswarya,Junk Lead,9787195781,Duplicate,CRM,Residence,Inactive,Nil
+1593,06-05-22,Eswarya,Junk Lead,9443352641,Duplicate,CRM,Residence,Inactive,Nil
+1594,06-05-22,Eswarya,Junk Lead,9443352641,Duplicate,CRM,Residence,Inactive,Nil
+1595,06-05-22,Eswarya,Junk Lead,9787195781,Invalid number,CRM,Residence,Inactive,Nil
+1596,06-05-22,Eswarya,Junk Lead,9884857769,Not required,CRM,Residence,Inactive,Nil
+1597,06-05-22,Eswarya,Junk Lead,9444233484,Call back ,CRM,Residence,Active,Call back on june
+1598,06-05-22,Eswarya,Junk Lead,9444922820,Not required,CRM,Residence,Active,Nil
+1599,06-05-22,Eswarya,Junk Lead,9080906363,Duplicate,CRM,Residence,Active,Nil
+1600,06-05-22,Eswarya,Junk Lead,9884116856,Not required,CRM,Residence,Active,Nil
+1601,06-05-22,Eswarya,Junk Lead,9840949815,Not required,CRM,Residence,Active,Nil
+1602,06-05-22,Eswarya,Junk Lead,6379044155,Not required,CRM,Residence,Active,Nil
+1603,06-05-22,Eswarya,Junk Lead,9841193214,Not required,CRM,Residence,Active,Nil
+1604,06-05-22,Eswarya,Junk Lead,9840020253,Not interested,CRM,Residence,Active,Nil
+1605,06-05-22,Eswarya,Junk Lead,9884283448,Not available,CRM,Residence,Active,Nil
+1606,06-05-22,Eswarya,Junk Lead,9940335933,Not answering ,CRM,Residence,Active,Nil
+1607,06-05-22,Eswarya,Junk Lead,9840400373,Not required,CRM,Residence,Active,Nil
+1608,06-05-22,Eswarya,Junk Lead,9841162910,Not required,CRM,Residence,Active,Nil
+1609,06-05-22,Eswarya,Junk Lead,9840198411,Not required,CRM,Residence,Active,Nil
+1610,06-05-22,Eswarya,Junk Lead,9677085789,Not required,CRM,Residence,Active,Nil
+1611,05-05-22,Muniswari,Junk Lead,9789742308,Not interested,CRM,Residence,Inactive,Nil
+1612,05-05-22,Muniswari,Junk Lead,9672618212,Invalid number,CRM,Residence,Inactive,Nil
+1613,05-05-22,Muniswari,Junk Lead,9267816010,Invalid number,CRM,Residence,Inactive,Nil
+1614,05-05-22,Muniswari,Junk Lead,9719817767,Invalid number,CRM,Residence,Inactive,Nil
+1615,05-05-22,Muniswari,Junk Lead,9865243104,Invalid number,CRM,Residence,Inactive,Nil
+1616,05-05-22,Muniswari,Junk Lead,9685743251,Invalid number,CRM,Residence,Inactive,Nil
+1617,05-05-22,Muniswari,Junk Lead,9445656265,Not required,CRM,Residence,Inactive,Nil
+1618,05-05-22,Muniswari,Junk Lead,9578819409,Ringing no response,CRM,Residence,Inactive,Nil
+1619,05-05-22,Muniswari,Junk Lead,7965368561,Invalid number,CRM,Residence,Inactive,Nil
+1620,05-05-22,Muniswari,Junk Lead,7765304128,Invalid number,CRM,Residence,Inactive,Nil
+1621,05-05-22,Muniswari,Junk Lead,7765650123,Invalid number,CRM,Residence,Inactive,Nil
+1622,05-05-22,Muniswari,Junk Lead,9874416631,Invalid number,CRM,Residence,Inactive,Nil
+1623,05-05-22,Muniswari,Junk Lead,8883787820,Out of district ,CRM,Residence,Inactive,Nil
+1624,05-05-22,Muniswari,Junk Lead,9715410352,Not interested,CRM,Residence,Inactive,Nil
+1625,05-05-22,Muniswari,Junk Lead,9976465298,Out of district,CRM,Residence,Inactive,Nil
+1626,05-05-22,Muniswari,Junk Lead,7373369825,Not interested,CRM,Residence,Inactive,Nil
+1627,05-05-22,Muniswari,Junk Lead,9976245841,Invalid number,CRM,Residence,Inactive,Nil
+1628,05-05-22,Muniswari,Junk Lead,9846667870,Invalid number,CRM,Residence,Inactive,Nil
+1629,05-05-22,Muniswari,Junk Lead,9659490902,Invalid number,CRM,Residence,Inactive,Nil
+1630,05-05-22,Muniswari,Junk Lead,9976465298,Duplicate,CRM,Residence,Inactive,Nil
+1631,05-05-22,Muniswari,Junk Lead,9976245841,Duplicate,CRM,Residence,Inactive,Nil
+1632,05-05-22,Muniswari,Junk Lead,8531940562,Out of district,CRM,Residence,Inactive,Nil
+1633,05-05-22,Muniswari,Junk Lead,9943500707,Invalid number,CRM,Residence,Inactive,Nil
+1634,05-05-22,Muniswari,Junk Lead,9659490902,Duplicate,CRM,Residence,Inactive,Nil
+1635,05-05-22,Muniswari,Junk Lead,9976754284,Not required ,CRM,Residence,Inactive,Nil
+1636,05-05-22,Muniswari,Junk Lead,9994427298,Not required,CRM,Residence,Inactive,Nil
+1637,05-05-22,Muniswari,Junk Lead,9047889151,Not required,CRM,Residence,Inactive,Nil
+1638,05-05-22,Muniswari,Junk Lead,9994427298,Not required,CRM,Residence,Inactive,Nil
+1639,05-05-22,Muniswari,Junk Lead,9047889151,Duplicate,CRM,Residence,Inactive,Nil
+1640,05-05-22,Muniswari,Junk Lead,7768352351,Invalid number,CRM,Residence,Inactive,Nil
+1641,05-05-22,Muniswari,Junk Lead,8940441862,Ringing no response,CRM,Residence,Inactive,Nil
+1642,05-05-22,Muniswari,Junk Lead,9974165631,Invalid number,CRM,Residence,Inactive,Nil
+1643,05-05-22,Muniswari,Junk Lead,9976466350,Invalid number,CRM,Residence,Inactive,Nil
+1644,05-05-22,Muniswari,Junk Lead,9896466104,Not required,CRM,Residence,Inactive,Nil
+1645,05-05-22,Muniswari,Junk Lead,7796532014,Invalid number,CRM,Residence,Inactive,Nil
+1646,05-05-22,Muniswari,Junk Lead,8270871897,Not required,CRM,Residence,Inactive,Nil
+1647,05-05-22,Muniswari,Junk Lead,8872165621,Not required,CRM,Residence,Inactive,Nil
+1648,05-05-22,Muniswari,Junk Lead,9685341270,Not required,CRM,Residence,Inactive,Nil
+1649,05-05-22,Muniswari,Junk Lead,8844612368,Not required,CRM,Residence,Inactive,Nil
+1650,05-05-22,Muniswari,Junk Lead,7794036541,Not required,CRM,Residence,Inactive,Nil
+1651,05-05-22,Muniswari,Junk Lead,8874012366,Not required,CRM,Residence,Inactive,Nil
+1652,05-05-22,Muniswari,Junk Lead,9876543210,Not required,CRM,Residence,Inactive,Nil
+1653,05-05-22,Muniswari,Junk Lead,9687423510,Not required,CRM,Residence,Inactive,Nil
+1654,05-05-22,Muniswari,Junk Lead,9585843977,Not required,CRM,Residence,Inactive,Nil
+1655,05-05-22,Muniswari,Junk Lead,9698631196,Out of district,CRM,Residence,Inactive,Nil
+1656,05-05-22,Muniswari,Junk Lead,7796340347,Not required,CRM,Residence,Inactive,Nil
+1657,05-05-22,Muniswari,Junk Lead,9842904137,Not required,CRM,Residence,Inactive,Nil
+1658,05-05-22,Muniswari,Junk Lead,9842081369,Not required,CRM,Residence,Inactive,Nil
+1659,05-05-22,Muniswari,Junk Lead,9842175508,Not required,CRM,Residence,Inactive,Nil
+1660,05-05-22,Muniswari,Junk Lead,9486715656,Not required,CRM,Residence,Inactive,Nil
+1661,05-05-22,Muniswari,Junk Lead,9047112443,Not required,CRM,Residence,Inactive,Nil
+1662,05-05-22,Muniswari,Junk Lead,9965608731,Not required,CRM,Residence,Inactive,Nil
+1663,05-05-22,Muniswari,Junk Lead,9003855592,Not required,CRM,Residence,Inactive,Nil
+1664,05-05-22,Muniswari,Junk Lead,7639433911,Not required,CRM,Residence,Inactive,Nil
+1665,05-05-22,Muniswari,Junk Lead,8300145165,Ringing no response,CRM,Residence,Inactive,Nil
+1666,05-05-22,Muniswari,Junk Lead,8940238697,Invalid number,CRM,Residence,Inactive,Nil
+1667,05-05-22,Muniswari,Junk Lead,9442964744,Not required,CRM,Residence,Inactive,Nil
+1668,05-05-22,Muniswari,Junk Lead,9003855592,Not required,CRM,Residence,Inactive,Nil
+1669,05-05-22,Muniswari,Junk Lead,9047889295,Not required,CRM,Residence,Inactive,Nil
+1670,05-05-22,Muniswari,Junk Lead,9655168975,Not required,CRM,Residence,Inactive,Nil
+1671,05-05-22,Muniswari,Junk Lead,9856487523,Not required,CRM,Residence,Inactive,Nil
+1672,05-05-22,Muniswari,Junk Lead,9047275795,Not required,CRM,Residence,Inactive,Nil
+1673,05-05-22,Muniswari,Junk Lead,9865432167,Not required,CRM,Residence,Inactive,Nil
+1674,05-05-22,Muniswari,Junk Lead,8897633510,Not required,CRM,Residence,Inactive,Nil
+1675,05-05-22,Muniswari,Junk Lead,9985654289,Not required,CRM,Residence,Inactive,Nil
+1676,05-05-22,Muniswari,Junk Lead,8862468308,Not required,CRM,Residence,Inactive,Nil
+1677,05-05-22,Muniswari,Junk Lead,9080941976,Out of district,CRM,Residence,Inactive,Nil
+1678,05-05-22,Muniswari,Junk Lead,8489482764,Not required,CRM,Residence,Inactive,Nil
+1679,05-05-22,Muniswari,Junk Lead,7530057311,Not required,CRM,Residence,Inactive,Nil
+1680,05-05-22,Muniswari,Junk Lead,8489482764,Not required,CRM,Residence,Inactive,Nil
+1681,05-05-22,Muniswari,Junk Lead,9606988926,Not required,CRM,Residence,Inactive,Nil
+1682,05-05-22,Muniswari,Junk Lead,9865950160,Not required,CRM,Residence,Inactive,Nil
+1683,05-05-22,Muniswari,Junk Lead,9865321478,Not required,CRM,Residence,Inactive,Nil
+1684,05-05-22,Muniswari,Junk Lead,9655704990,Not required,CRM,Residence,Inactive,Nil
+1685,05-05-22,Muniswari,Junk Lead,9786021060,Not required,CRM,Residence,Inactive,Nil
+1686,05-05-22,Muniswari,Junk Lead,9788482670,Not required,CRM,Residence,Inactive,Nil
+1687,05-05-22,Muniswari,Junk Lead,9976223260,Not required,CRM,Residence,Inactive,Nil
+1688,05-05-22,Muniswari,Junk Lead,9989645966,Not required,CRM,Residence,Inactive,Nil
+1689,05-05-22,Muniswari,Junk Lead,9865798001,Not required,CRM,Residence,Inactive,Nil
+1690,05-05-22,Muniswari,Junk Lead,9788946640,Not required,CRM,Residence,Inactive,Nil
+1691,05-05-22,Muniswari,Junk Lead,8964576321,Invalid number,CRM,Residence,Inactive,Nil
+1692,05-05-22,Muniswari,Junk Lead,9976466350,Duplicate,CRM,Residence,Inactive,Nil
+1693,05-05-22,Muniswari,Junk Lead,9655704990,Invalid number,CRM,Residence,Inactive,Nil
+1694,05-05-22,Muniswari,Junk Lead,9985794151,Not required,CRM,Residence,Inactive,Nil
+1695,05-05-22,Muniswari,Junk Lead,7465653261,Not required,CRM,Residence,Inactive,Nil
+1696,05-05-22,Muniswari,Junk Lead,9047982375,Not required,CRM,Residence,Inactive,Nil
+1697,05-05-22,Muniswari,Junk Lead,9896466104,Not required,CRM,Residence,Inactive,Nil
+1698,05-05-22,Muniswari,Junk Lead,9630776019,Not required,CRM,Residence,Inactive,Nil
+1699,05-05-22,Muniswari,Junk Lead,9393636618,Not required,CRM,Residence,Inactive,Nil
+1700,05-05-22,Muniswari,Junk Lead,9294312472,Not required,CRM,Residence,Inactive,Nil
+1701,05-05-22,Muniswari,Junk Lead,9941101297,Ringing no response,CRM,Residence,Inactive,Nil
+1702,05-05-22,Muniswari,Junk Lead,9570863445,Not required,CRM,Residence,Inactive,Nil
+1703,05-05-22,Muniswari,Junk Lead,9874103527,Not required,CRM,Residence,Inactive,Nil
+1704,05-05-22,Muniswari,Junk Lead,9814560024,Not required,CRM,Residence,Inactive,Nil
+1705,05-05-22,Muniswari,Junk Lead,9056595495,Invalid number,CRM,Residence,Inactive,Nil
+1706,05-05-22,Muniswari,Junk Lead,9854555545,Out of district,CRM,Residence,Inactive,Nil
+1707,05-05-22,Muniswari,Junk Lead,9757628255,Invalid number,CRM,Residence,Inactive,Nil
+1708,05-05-22,Muniswari,Junk Lead,9624454621,Ringing no response,CRM,Residence,Inactive,Nil
+1709,05-05-22,Muniswari,Junk Lead,9003855592,Ringing no response,CRM,Residence,Inactive,Nil
+1710,05-05-22,Muniswari,Junk Lead,7898965681,Invalid number,CRM,Residence,Inactive,Nil
+1711,06-05-22,Muniswari,Junk Lead,9497264035,Invalid number,CRM,Residence,Inactive,Nil
+1712,06-05-22,Muniswari,Junk Lead,9318705720,Invalid number,CRM,Residence,Inactive,Nil
+1713,06-05-22,Muniswari,Junk Lead,9894247736,Not required,CRM,Residence,Inactive,Nil
+1714,06-05-22,Muniswari,Junk Lead,9788251542,Out of district,CRM,Residence,Inactive,Nil
+1715,06-05-22,Muniswari,Junk Lead,9626463467,Not required,CRM,Residence,Inactive,Nil
+1716,06-05-22,Muniswari,Junk Lead,9626463467,Duplicate,CRM,Residence,Inactive,Nil
+1717,06-05-22,Muniswari,Junk Lead,9791931190,Invalid number,CRM,Residence,Inactive,Nil
+1718,06-05-22,Muniswari,Junk Lead,9546206978,Out of district,CRM,Residence,Inactive,Nil
+1719,06-05-22,Muniswari,Junk Lead,9789479274,Ringing no response,CRM,Residence,Inactive,Nil
+1720,06-05-22,Muniswari,Junk Lead,9442758995,Ringing no response,CRM,Residence,Inactive,Nil
+1721,06-05-22,Muniswari,Junk Lead,9486715656,Out of district ,CRM,Residence,Inactive,Nil
+1722,06-05-22,Muniswari,Junk Lead,9003855592,Duplicate,CRM,Residence,Inactive,Nil
+1723,06-05-22,Muniswari,Junk Lead,9256804471,Invalid number,CRM,Residence,Inactive,Nil
+1724,06-05-22,Muniswari,Junk Lead,7708845605,Not required,CRM,Residence,Inactive,Nil
+1725,06-05-22,Muniswari,Junk Lead,9168326966,Invalid number,CRM,Residence,Inactive,Nil
+1726,06-05-22,Muniswari,Junk Lead,7708845605,Duplicate,CRM,Residence,Inactive,Nil
+1727,06-05-22,Muniswari,Junk Lead,9783546080,Ringing no response,CRM,Residence,Inactive,Nil
+1728,06-05-22,Muniswari,Junk Lead,9789487720,Ringing no response,CRM,Residence,Inactive,Nil
+1729,06-05-22,Muniswari,Junk Lead,9267816010,Duplicate,CRM,Residence,Inactive,Nil
+1730,06-05-22,Muniswari,Junk Lead,9457771633,Invalid number,CRM,Residence,Inactive,Nil
+1731,06-05-22,Muniswari,Junk Lead,9995505556,Invalid number,CRM,Residence,Inactive,Nil
+1732,06-05-22,Muniswari,Junk Lead,9128608889,Invalid number,CRM,Residence,Inactive,Nil
+1733,06-05-22,Muniswari,Junk Lead,9943358081,Invalid number,CRM,Residence,Inactive,Nil
+1734,06-05-22,Muniswari,Junk Lead,9003855592,Duplicate,CRM,Residence,Inactive,Nil
+1735,06-05-22,Muniswari,Junk Lead,7447328140,Invalid number,CRM,Residence,Inactive,Nil
+1736,06-05-22,Muniswari,Junk Lead,9486715656,Invalid number,CRM,Residence,Inactive,Nil
+1737,06-05-22,Muniswari,Junk Lead,8807775012,Not interested,CRM,Residence,Inactive,Nil
+1738,06-05-22,Muniswari,Junk Lead,9603406662,Invalid number,CRM,Residence,Inactive,Nil
+1739,06-05-22,Muniswari,Junk Lead,9003254624,Not interested,CRM,Residence,Inactive,Nil
+1740,06-05-22,Muniswari,Junk Lead,8807775012,Duplicate,CRM,Residence,Inactive,Nil
+1741,06-05-22,Muniswari,Junk Lead,9486715656,Duplicate,CRM,Residence,Inactive,Nil
+1742,06-05-22,Muniswari,Junk Lead,9003855592,Duplicate,CRM,Residence,Inactive,Nil
+1743,06-05-22,Muniswari,Junk Lead,9071578780,Invalid number,CRM,Residence,Inactive,Nil
+1744,06-05-22,Muniswari,Junk Lead,8144148181,Invalid number,CRM,Residence,Inactive,Nil
+1745,06-05-22,Muniswari,Junk Lead,9003855592,Duplicate,CRM,Residence,Inactive,Nil
+1746,06-05-22,Muniswari,Junk Lead,8656896854,Invalid number,CRM,Residence,Inactive,Nil
+1747,06-05-22,Muniswari,Junk Lead,8879968665,Invalid number,CRM,Residence,Inactive,Nil
+1748,06-05-22,Muniswari,Junk Lead,7669866691,Invalid number,CRM,Residence,Inactive,Nil
+1749,06-05-22,Muniswari,Junk Lead,9786491820,Ringing no response,CRM,Residence,Inactive,Nil
+1750,06-05-22,Muniswari,Junk Lead,9003855592,Duplicate,CRM,Residence,Inactive,Nil
+1751,06-05-22,Muniswari,Junk Lead,8877565470,Out of district,CRM,Residence,Inactive,Nil
+1752,06-05-22,Muniswari,Junk Lead,9891887310,Invalid number,CRM,Residence,Inactive,Nil
+1753,06-05-22,Muniswari,Junk Lead,9751773519,Invalid number,CRM,Residence,Inactive,Nil
+1754,06-05-22,Muniswari,Junk Lead,9043340150,Not interested,CRM,Residence,Inactive,Nil
+1755,06-05-22,Muniswari,Junk Lead,9451764023,Invalid number,CRM,Residence,Inactive,Nil
+1756,06-05-22,Muniswari,Junk Lead,9127973150,Invalid number,CRM,Residence,Inactive,Nil
+1757,06-05-22,Muniswari,Junk Lead,9626451201,Duplicate,CRM,Residence,Inactive,Nil
+1758,06-05-22,Muniswari,Junk Lead,9894247736,Duplicate,CRM,Residence,Inactive,Nil
+1759,06-05-22,Muniswari,Junk Lead,9500662557,Duplicate,CRM,Residence,Inactive,Nil
+1760,06-05-22,Muniswari,Junk Lead,7901918466,Out of district,CRM,Residence,Inactive,Nil
+1761,06-05-22,Muniswari,Junk Lead,9874564657,Out of district,CRM,Residence,Inactive,Nil
+1762,06-05-22,Muniswari,Junk Lead,8894645677,Duplicate,CRM,Residence,Inactive,Nil
+1763,06-05-22,Muniswari,Junk Lead,9626999863,Not required,CRM,Residence,Inactive,Nil
+1764,06-05-22,Muniswari,Junk Lead,9206427151,Invalid number,CRM,Residence,Inactive,Nil
+1765,06-05-22,Muniswari,Junk Lead,9164831038,Out of district,CRM,Residence,Inactive,Nil
+1766,06-05-22,Muniswari,Junk Lead,9626999863,Duplicate,CRM,Residence,Inactive,Nil
+1767,06-05-22,Muniswari,Junk Lead,8869754540,Invalid number,CRM,Residence,Inactive,Nil
+1768,06-05-22,Muniswari,Junk Lead,9486715656,Duplicate,CRM,Residence,Inactive,Nil
+1769,06-05-22,Muniswari,Junk Lead,9357686356,Invalid number,CRM,Residence,Inactive,Nil
+1770,06-05-22,Muniswari,Junk Lead,9003855592,Duplicate,CRM,Residence,Inactive,Nil
+1771,06-05-22,Muniswari,Junk Lead,7685435631,Invalid number,CRM,Residence,Inactive,Nil
+1772,06-05-22,Muniswari,Junk Lead,9444455245,Invalid number,CRM,Residence,Inactive,Nil
+1773,06-05-22,Muniswari,Junk Lead,7866565660,Not interested,CRM,Residence,Inactive,Nil
+1774,06-05-22,Muniswari,Junk Lead,8023619059,Not interested,CRM,Residence,Inactive,Nil
+1775,06-05-22,Muniswari,Junk Lead,9944718417,Not interested,CRM,Residence,Inactive,Nil
+1776,06-05-22,Muniswari,Junk Lead,9626999863,Not interested,CRM,Residence,Inactive,Nil
+1777,06-05-22,Muniswari,Junk Lead,8986578454,Not interested,CRM,Residence,Inactive,Nil
+1778,06-05-22,Muniswari,Junk Lead,9615004566,Not interested,CRM,Residence,Inactive,Nil
+1779,06-05-22,Muniswari,Junk Lead,9043340180,Invalid number,CRM,Residence,Inactive,Nil
+1780,06-05-22,Muniswari,Junk Lead,9595609523,Invalid number,CRM,Residence,Inactive,Nil
+1781,06-05-22,Muniswari,Junk Lead,9486715656,Duplicate,CRM,Residence,Inactive,Nil
