@@ -2226,4 +2226,68 @@ S.No,Date,Tele Caller,Description ,Contact Number,Status,Source,Category,Call Ty
 2224,16-05-22,Muniswari,Bluestar India,9841789710,Chennai,CRM,Corporate,Active,Not answering ,S.I care 
 2225,16-05-22,Muniswari,Expo Freight,9003099645,Chennai,CRM,Corporate,Active,msaravanan@efl.global,S.I care 
 2226,16-05-22,Muniswari,British Council,9042024582,Chennai,CRM,Corporate,Active,Not answering ,S.I care 
-2227,16-05-22,Muniswari,Hafele India,9884696933,Chennai,CRM,Corporate,Active,catalog  barani.b@hafeindia.com,S.I care 
+2227,16-05-22,Muniswari,Hafele India,9884696933,Chennai,CRM,Residence,Inactive,Nil,Budanta
+2228,17-05-22,Muniswari,Cheers,7010524199,Not answering ,CRM,Residence,Inactive,Nil,Budanta
+2229,17-05-22,Muniswari,Cheers,7010775509,Not answering ,CRM,Residence,Inactive,Nil,Budanta
+2230,17-05-22,Muniswari,Cheers,7010833997,Not required,CRM,Residence,Inactive,Nil,Budanta
+2231,17-05-22,Muniswari,Cheers,7010872300,Not required,CRM,Residence,Inactive,Nil,Budanta
+2232,17-05-22,Muniswari,Cheers,7010874006,Switched off ,CRM,Residence,Inactive,Nil,Budanta
+2233,17-05-22,Muniswari,Cheers,7010965386,Ringing no response,CRM,Residence,Inactive,Nil,Budanta
+2234,17-05-22,Muniswari,Cheers,7012597568,Not required,CRM,Residence,Inactive,Nil,Budanta
+2235,17-05-22,Muniswari,Cheers,7012978783,Not required,CRM,Residence,Inactive,Nil,Budanta
+2236,17-05-22,Muniswari,Cheers,7022748431,Not required,CRM,Residence,Inactive,Nil,Budanta
+2237,17-05-22,Muniswari,Cheers,7032224200,Not required,CRM,Residence,Inactive,Nil,Budanta
+2238,17-05-22,Muniswari,Cheers,7032645830,Not required,CRM,Residence,Inactive,Nil,Budanta
+2239,17-05-22,Muniswari,Cheers,7032919394,Not required,CRM,Residence,Inactive,Nil,Budanta
+2240,17-05-22,Muniswari,Cheers,7092122200,Not required,CRM,Residence,Inactive,Nil,Budanta
+2241,17-05-22,Muniswari,Cheers,7092122769,Not required,CRM,Residence,Inactive,Nil,Budanta
+2242,17-05-22,Muniswari,Cheers,7094283336,Not required,CRM,Residence,Inactive,Nil,Budanta
+2243,17-05-22,Muniswari,Cheers,7097234295,Not required,CRM,Residence,Inactive,Nil,Budanta
+2244,17-05-22,Muniswari,Cheers,7200001205,Not required,CRM,Residence,Inactive,Nil,Budanta
+2245,17-05-22,Muniswari,Cheers,7200009630,Not required,CRM,Residence,Inactive,Nil,Budanta
+2246,17-05-22,Muniswari,Cheers,7200018506,Not required,CRM,Residence,Inactive,Nil,Budanta
+2247,17-05-22,Muniswari,Cheers,7200092829,Not required,CRM,Residence,Inactive,Nil,Budanta
+2248,17-05-22,Muniswari,Cheers,7200306168,Not required,CRM,Residence,Inactive,Nil,Budanta
+2249,17-05-22,Muniswari,Cheers,7200326278,Not required,CRM,Residence,Inactive,Nil,Budanta
+2250,17-05-22,Muniswari,Cheers,7200383270,Not answering ,CRM,Residence,Inactive,Nil,Budanta
+2251,17-05-22,Muniswari,Cheers,7200667509,Not answering ,CRM,Residence,Inactive,Nil,Budanta
+2252,17-05-22,Muniswari,Cheers,7200703322,Not answering ,CRM,Residence,Inactive,Nil,Budanta
+2253,17-05-22,Muniswari,Cheers,7200824837,Not answering ,CRM,Residence,Inactive,Nil,Budanta
+2254,17-05-22,Muniswari,Cheers,7200860466,Not answering ,CRM,Residence,Inactive,Nil,Budanta
+2255,17-05-22,Muniswari,Cheers,7299055955,Not required,CRM,Residence,Inactive,Nil,Budanta
+2256,17-05-22,Muniswari,Cheers,7299058012,Not required,CRM,Residence,Inactive,Nil,Budanta
+2257,17-05-22,Muniswari,Cheers,7299124694,Not required,CRM,Residence,Inactive,Nil,Budanta
+2258,17-05-22,Muniswari,Cheers,7299141340,Not answering ,CRM,Residence,Inactive,Nil,Budanta
+2259,17-05-22,Muniswari,Cheers,7299205763,Not answering ,CRM,Residence,Inactive,Nil,Budanta
+2260,17-05-22,Muniswari,Cheers,7299293742,Not answering ,CRM,Residence,Inactive,Nil,Budanta
+2261,17-05-22,Muniswari,Cheers,7299324511,Not answering ,CRM,Residence,Inactive,Nil,Budanta
+2262,17-05-22,Muniswari,Cheers,7299351361,Not required,CRM,Residence,Inactive,Nil,Budanta
+2263,17-05-22,Muniswari,Cheers,7299375095,Not required,CRM,Residence,Inactive,Nil,Budanta
+2264,17-05-22,Muniswari,Cheers,7299816738,Not required,CRM,Residence,Inactive,Nil,Budanta
+2265,17-05-22,Muniswari,Cheers,7299898951,Not required,CRM,Residence,Inactive,Nil,Budanta
+2266,17-05-22,Muniswari,Cheers,7299922272,Not required,CRM,Residence,Inactive,Nil,Budanta
+2267,17-05-22,Muniswari,Cheers,7299950072,Not required,CRM,Residence,Inactive,Nil,Budanta
+2268,17-05-22,Muniswari,Cheers,7299955198,Not required,CRM,Residence,Inactive,Nil,Budanta
+2269,17-05-22,Muniswari,Cheers,7299985953,Not required,CRM,Residence,Inactive,Nil,Budanta
+2270,17-05-22,Muniswari,Cheers,7305172585,Not required,CRM,Residence,Inactive,Nil,Budanta
+2271,17-05-22,Muniswari,Cheers,7305272342,Not required,CRM,Residence,Inactive,Nil,Budanta
+2272,17-05-22,Muniswari,Cheers,7305347794,Not required,CRM,Residence,Inactive,Nil,Budanta
+2273,17-05-22,Muniswari,Cheers,7305579174,Not answering ,CRM,Residence,Inactive,Nil,Budanta
+2274,17-05-22,Muniswari,Cheers,7305639702,Not answering ,CRM,Residence,Inactive,Nil,Budanta
+2275,17-05-22,Muniswari,Cheers,7305776886,Not answering ,CRM,Residence,Inactive,Nil,Budanta
+2276,17-05-22,Muniswari,Cheers,7305880565,Not answering ,CRM,Residence,Inactive,Nil,Budanta
+2277,17-05-22,Muniswari,Cheers,7305929495,Not answering ,CRM,Residence,Inactive,Nil,Budanta
+2278,17-05-22,Muniswari,Cheers,7338707777,Not answering ,CRM,Residence,Inactive,Nil,Budanta
+2279,17-05-22,Muniswari,Floressa Randa,093848 04334,Not responding ,CRM ,Hotel,Inactive,Nil,Budanta
+2280,17-05-22,Muniswari,Hablis - A Business Hotel In Chennai,044 4023 5555,call back 18 May ,CRM ,Hotel,Inactive,Nil,Budanta
+2281,17-05-22,Muniswari,First Inn Hotels Chennai,095513 50005,No requirements now ,CRM ,Hotel,Inactive,Nil,Budanta
+2282,17-05-22,Muniswari,"Venture Park, OMR",044 2458 1790,Not required,CRM ,Hotel,Inactive,Nil,Budanta
+2283,17-05-22,Muniswari,Holiday Inn Express Chennai ,044 7133 0330,Not required,CRM ,Hotel,Inactive,Nil,Budanta
+2284,17-05-22,Muniswari,Park Plaza Chennai OMR,044 6140 5555,No requirements now ,CRM ,Hotel,Inactive,Nil,Budanta
+2285,17-05-22,Muniswari,Fairfield by Marriott Sriperumbudur,044 6714 0505,call back 18May 10.20 a.m,CRM ,Hotel,Inactive,Nil,Budanta
+2286,17-05-22,Muniswari,Hotel Crescent,044 2716 3336,Not responding ,CRM ,Hotel,Inactive,Nil,Budanta
+2287,17-05-22,Muniswari,KPA Grand Palace - Hotel,077085 26391,8760760749 manager N.I,CRM ,Hotel,Inactive,Nil,Budanta
+2288,17-05-22,Muniswari,Sathyam Grand Resorts,095970 89800,Not interested,CRM ,Hotel,Inactive,Nil,Budanta
+2289,17-05-22,Muniswari,Hotel Villa Highnest - Oragadam - Sriperumpudur,098400 59095,Not interested,CRM ,Hotel,Inactive,Nil,Budanta
+2290,17-05-22,Muniswari,"Mercure Chennai Sriperumbudur 
+",044 6711 8500,Agreed for appointment,CRM ,Hotel,Inactive,Nil,Budanta
