@@ -1,12 +1,12 @@
 S No,Client name ,Location ,Category ,Work Status ,Responsibilty,Completed On,Work completed time , Amount ,Payment Status,Service Type ,Source 
 1,Cheers ,Anna Nagar,Supermarket-Outlet,Done,Vendor ,08-02-22,0,2655,Pending to Vendor,Pest Control,CRM 
-2,Safe Infra Office ,Adyar,Office,Done,Vendor ,08-02-22,0,2124,Pending to Vendor,Pest Control,CRM 
+2,Safe Infra Office ,Adyar,Office,Done,Vendor ,08-02-22,0,2124,Payment Cleared ,Pest Control,CRM 
 3,Cheers ,Ayanavaram,Supermarket-Outlet,Done,Vendor ,08-02-22,0,1416,Pending to Vendor,Pest Control,CRM 
-4,Safe Infra Office ,Adyar,Office,Done,Vendor ,08-02-22,0,2655,Pending to Vendor,Pest Control,CRM 
+4,Safe Infra Office ,Adyar,Office,Done,Vendor ,08-02-22,0,2655,Payment Cleared ,Pest Control,CRM 
 5,Cheers Maya Motors,Adyar,WareHouse,Done,Vendor ,08-02-22,0,2950,Pending to Vendor,Pest Control,CRM 
-6,Cheers ,Ayanavaram,Supermarket-Outlet,Done,Vendor ,08-02-22,0,1416,Pending to Vendor,Pest Control,CRM 
+6,Cheers ,Ayanavaram,Supermarket-Outlet,Done,Vendor ,08-02-22,0,1416,Payment Cleared ,Pest Control,CRM 
 7,Delight home stays,Madippakkam ,Service Apartment ,Done,Vendor ,08-02-22,0,10325,Pending to Vendor,Pest Control,Rakesh
-8,Cheers ,Anna Nagar,Supermarket-Outlet,Done,Vendor ,21-02-22,0,2655,Pending to Vendor,Pest Control,CRM 
+8,Cheers ,Anna Nagar,Supermarket-Outlet,Done,Vendor ,21-02-22,0,2655,Payment Cleared ,Pest Control,CRM 
 9,Cheers Maya Motors ,Adyar,WareHouse,Done,Vendor ,21-02-22,0,2655,Pending to Vendor,Pest Control,CRM 
 10,Scan India ,Abhiramapuram ,Residence ,Done ,Vendor ,04-03-22,0,2065,Pending to Vendor,Pest Control,Rakesh
 11,Scan India ,Abhiramapuram ,Residence ,Done ,Vendor ,04-03-22,0,2301,Received from Client,Pest Control,Rakesh
@@ -44,11 +44,11 @@ S No,Client name ,Location ,Category ,Work Status ,Responsibilty,Completed On,Wo
 43,Cheers ,Ayanavaram,Supermarket-Outlet,Done,Dinesh ,20-01-22,9.30 PM ,0,Self,Fumigation ,CRM 
 44,Indian Bank,George Town,Bank ,Done,Dinesh ,20-01-22,4.00 PM ,1859,Received from Client,Fumigation ,CRM 
 45,John Mahendran,T.Nagar,Residence ,Done,Dinesh ,20-01-22,3.30 PM ,1000,Received from Client,Fumigation ,Social Media
-46,Cheers ,Anna Nagar,Supermarket-Outlet,Done,Vendor ,20-01-22,0,2655,Pending to Vendor,Pest Control,CRM 
+46,Cheers ,Anna Nagar,Supermarket-Outlet,Done,Vendor ,20-01-22,0,2655,Payment Cleared ,Pest Control,CRM 
 47,Cheers,Adyar,WareHouse,Done,Vendor ,20-01-22,0,2655,Pending to Vendor,Pest Control,CRM 
 48,Safe Infra Office ,Adyar,Office,Done,Vendor ,20-01-22,0,2124,Pending to Vendor,Pest Control,CRM 
 49,Cheers Maya motors,Adyar,WareHouse,Done,Vendor ,20-01-22,0,2950,Pending to Vendor,Pest Control,CRM 
-50,Cheers ,Ayanavaram,Supermarket-Outlet,Done,Vendor ,20-01-22,0,1416,Pending to Vendor,Pest Control,Existing
+50,Cheers ,Ayanavaram,Supermarket-Outlet,Done,Vendor ,20-01-22,0,1416,Payment Cleared ,Pest Control,Existing
 51,Cheers ,Adyar,Supermarket-Outlet,Done,Dinesh ,21-01-22,2.20 PM ,0,Self,Fumigation ,CRM 
 52,Primal Patterns,Besant Nagar,Gym,Done,Dinesh ,22-01-22,1.30 PM ,1770,Received from Client,Fumigation ,Existing
 53,Cheers,Nungambakkam,Supermarket-Outlet,Done,Dinesh ,22-01-22,12.00 PM,0,Self,Fumigation ,CRM 
