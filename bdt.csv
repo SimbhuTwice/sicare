@@ -2294,14 +2294,14 @@ S.No,Date,Tele Caller,Description ,Contact Number,Status,Source,Category,Call Ty
 2291,18-05-22,Muniswari,Hablis - ,044 4023 5555,said to call @12 Pm |Not answering ,Cold calling ,Hotel,Inactive,Nil,Budanta
 2292,18-05-22,Muniswari,Fairfield by Marriott ,044 6714 0505,Not required,Cold calling ,Hotel,Inactive,Nil,Budanta
 2293,18-05-22,Muniswari,Bluestar India,9841789710,Chennai,CRM,Corporate,Active,Not answering ,S.I care 
-2294,18-05-22,Muniswari,Lemon Tree ,044 4040 7777,call back 19 May ,Cold calling ,Hotel,Inactive,Nil,Budanta
+2294,18-05-22,Muniswari,Lemon Tree |9025222422,044 4040 7777,call back 19 May| Not respg.,Cold calling ,Hotel,Inactive,Nil,Budanta
 2295,18-05-22,Muniswari,Abu Sarovar Portico,044 6625 2525,9840973003| Not interested,Cold calling ,Hotel,Inactive,Nil,Budanta
 2296,18-05-22,Muniswari,Royal Regency Lifotel ,044 4934 7777,C/b12 p.m |noconcernedperson,Cold calling ,Hotel,Inactive,Nil,Budanta
 2297,18-05-22,Muniswari,"The Pride Hotel, Chennai",044 4398 9898,Not answering,Cold calling ,Hotel,Inactive,Nil,Budanta
 2298,18-05-22,Muniswari,THE SPIN HOTEL,044 4217 0505,call back 12.46 P.M | Not required,Cold calling ,Hotel,Inactive,Nil,Budanta
 2299,18-05-22,Muniswari,M Stays,096417 77222,No requirements now ,Cold calling ,Hotel,Inactive,Nil,Budanta
 2300,18-05-22,Muniswari,The Belstead Hotel,044 2828 0027,call back 19 May ,Cold calling ,Hotel,Inactive,Nil,Budanta
-2301,18-05-22,Muniswari,Hotel Park Plaza,044 4001 1111,IT/ admin not available|call23May,Cold calling ,Hotel,Inactive,Nil,Budanta
+2301,18-05-22,Muniswari,Hotel Park Plaza,044 4001 1111,ITnot available|call23May,Cold calling ,Hotel,Inactive,Nil,Budanta
 2302,18-05-22,Muniswari,Vestin Park Hotel,044 2852 7171,No response ,Cold calling ,Hotel,Inactive,Nil,Budanta
 2303,18-05-22,Muniswari,JP Hotel Chennai,044 4028 8000,Not required ,Cold calling ,Hotel,Inactive,Nil,Budanta
 2304,18-05-22,Muniswari,The Madras Grand,"093848 81777
@@ -2312,7 +2312,7 @@ S.No,Date,Tele Caller,Description ,Contact Number,Status,Source,Category,Call Ty
 2307,18-05-22,Muniswari,Botree,9444976363,Chennai,CRM,Corporate,Active,Not answering ,S.I care 
 2308,18-05-22,Muniswari,Knack Studio,9840259698,Chennai,CRM,Corporate,Active,Appt.on20MayFri at11A.M,S.I care 
 2309,18-05-22,Muniswari,Tlautogistic,7397651240,Chennai,CRM,Corporate,Active,said will share but not shared mail id,S.I care 
-2310,18-05-22,Muniswari,STFC- Mr.Brijesh,7904222985,Chennai,CRM,Corporate,Active,O/Stn said to - call May 25,S.I care 
+2310,18-05-22,Muniswari,STFC- Mr.Brijesh,7904222985,Chennai,CRM,Corporate,Active,O/SncallMay 25,S.I care 
 2311,18-05-22,Muniswari,The Bis Team,9962213392,Chennai,CRM,Corporate,Active,Not answering ,S.I care 
 2312,18-05-22,Muniswari,Cheers,7338715055,Not answering ,CRM,Residence,Inactive,Nil,Budanta
 2313,18-05-22,Muniswari,Cheers,7338757245,Not answering ,CRM,Residence,Inactive,Nil,Budanta
@@ -2354,4 +2354,67 @@ S.No,Date,Tele Caller,Description ,Contact Number,Status,Source,Category,Call Ty
 2349,18-05-22,Muniswari,Cheers,7358530671,Not required,CRM,Residence,Inactive,Nil,Budanta
 2350,18-05-22,Muniswari,Cheers,7358557852,Not required,CRM,Residence,Inactive,Nil,Budanta
 2351,18-05-22,Muniswari,Cheers,7358565526,Not required,CRM,Residence,Inactive,Nil,Budanta
-,,,,,,,,,,
+2352,20-05-22,Muniswari,Cheers,7358578961,Not required,CRM,Residence,Inactive,Nil,Budanta
+2353,20-05-22,Muniswari,Cheers,7358602298,Not required,CRM,Residence,Inactive,Nil,Budanta
+2354,20-05-22,Muniswari,Cheers,7358634864,Not required,CRM,Residence,Inactive,Nil,Budanta
+2355,20-05-22,Muniswari,Cheers,7358640256,Not required,CRM,Residence,Inactive,Nil,Budanta
+2356,20-05-22,Muniswari,Cheers,7358694516,Not required,CRM,Residence,Inactive,Nil,Budanta
+2357,20-05-22,Muniswari,Cheers,7358778231,Not required,CRM,Residence,Inactive,Nil,Budanta
+2358,20-05-22,Muniswari,Cheers,7358807722,Not required,CRM,Residence,Inactive,Nil,Budanta
+2359,20-05-22,Muniswari,Cheers,7373020411,Not required,CRM,Residence,Inactive,Nil,Budanta
+2360,20-05-22,Muniswari,Cheers,7373975421,Not required,CRM,Residence,Inactive,Nil,Budanta
+2361,20-05-22,Muniswari,Cheers,7395909444,Not required,CRM,Residence,Inactive,Nil,Budanta
+2362,20-05-22,Muniswari,Cheers,7395987076,Not required,CRM,Residence,Inactive,Nil,Budanta
+2363,20-05-22,Muniswari,Cheers,7397248412,Not required,CRM,Residence,Inactive,Nil,Budanta
+2364,20-05-22,Muniswari,Cheers,7397291909,Not required,CRM,Residence,Inactive,Nil,Budanta
+2365,20-05-22,Muniswari,Cheers,7397295296,Not required,CRM,Residence,Inactive,Nil,Budanta
+2366,20-05-22,Muniswari,Cheers,7397307604,Not required,CRM,Residence,Inactive,Nil,Budanta
+2367,20-05-22,Muniswari,Cheers,7397359191,Not required,CRM,Residence,Inactive,Nil,Budanta
+2368,20-05-22,Muniswari,Cheers,7397389802,Not required,CRM,Residence,Inactive,Nil,Budanta
+2369,20-05-22,Muniswari,Cheers,7397434726,Not required,CRM,Residence,Inactive,Nil,Budanta
+2370,20-05-22,Muniswari,Cheers,7401130710,Not required,CRM,Residence,Inactive,Nil,Budanta
+2371,20-05-22,Muniswari,Cheers,7401550751,Not required,CRM,Residence,Inactive,Nil,Budanta
+2372,20-05-22,Muniswari,Cheers,7401569779,Not required,CRM,Residence,Inactive,Nil,Budanta
+2373,20-05-22,Muniswari,Cheers,7406032430,Not required,CRM,Residence,Inactive,Nil,Budanta
+2374,20-05-22,Muniswari,Cheers,7418217000,Not required,CRM,Residence,Inactive,Nil,Budanta
+2375,20-05-22,Muniswari,Cheers,7418840114,Not required,CRM,Residence,Inactive,Nil,Budanta
+2376,20-05-22,Muniswari,Cheers,7418845265,Not required,CRM,Residence,Inactive,Nil,Budanta
+2377,20-05-22,Muniswari,Cheers,7509777727,Not required,CRM,Residence,Inactive,Nil,Budanta
+2378,20-05-22,Muniswari,Cheers,7530003548,Not required,CRM,Residence,Inactive,Nil,Budanta
+2379,20-05-22,Muniswari,Cheers,7550008755,Not required,CRM,Residence,Inactive,Nil,Budanta
+2380,20-05-22,Muniswari,Cheers,7550035515,Not required,CRM,Residence,Inactive,Nil,Budanta
+2381,20-05-22,Muniswari,Cheers,7550050115,Not required,CRM,Residence,Inactive,Nil,Budanta
+2382,20-05-22,Muniswari,Cheers,7550112301,Not required,CRM,Residence,Inactive,Nil,Budanta
+2383,20-05-22,Muniswari,Hotel Aruna Ltd.,044 2530 3404,Not required,Cold calling ,Hotel,Inactive,Nil,Budanta
+2384,20-05-22,Muniswari,Orchid Resorts,098400 33194,Not required,Cold calling ,Hotel,Inactive,Nil,Budanta
+2385,20-05-22,Muniswari,MGM Beach Resorts,044 2741 0000,Ringing no response,Cold calling ,Hotel,Inactive,Nil,Budanta
+2386,20-05-22,Muniswari,ECR Beach Guest House,091762 22254,Not required,Cold calling ,Hotel,Inactive,Nil,Budanta
+2387,20-05-22,Muniswari,The Farm,091760 50562,Not required,Cold calling ,Hotel,Inactive,Nil,Budanta
+2388,20-05-22,Muniswari,PEAKLAND HOTELS AND RESORTS,098849 54445,Not responding ,Cold calling ,Hotel,Inactive,Nil,Budanta
+2389,20-05-22,Muniswari,Sagharika Gardens,090941 97484,Not required,Cold calling ,Hotel,Inactive,Nil,Budanta
+2390,20-05-22,Muniswari,Parijatham Beach House,091760 13110,Not required,Cold calling ,Hotel,Inactive,Nil,Budanta
+2391,20-05-22,Muniswari,Umino Beach Resort & Banquet Hall,098405 30315,Out of N/w ,Cold calling ,Hotel,Inactive,Nil,Budanta
+2392,20-05-22,Muniswari,KRIYATES VILLA THE PALMS,099400 19608,Not required,Cold calling ,Hotel,Inactive,Nil,Budanta
+2393,20-05-22,Muniswari,The Pine Homes,099401 02027,Lease line check feasibility ,Cold calling ,Hotel,Inactive,Nil,Budanta
+2394,20-05-22,Muniswari,Anitha Gardens,098414 12727,Not answering ,Cold calling ,Hotel,Inactive,Nil,Budanta
+2395,20-05-22,Muniswari,City Club ECR,"098841 20909
+",Not required,Cold calling ,Hotel,Inactive,Nil,Budanta
+2396,20-05-22,Muniswari,Pooja Garden Beach House,098414 12727,Not answering,Cold calling ,Hotel,Inactive,Nil,Budanta
+2397,20-05-22,Muniswari,ARCADIO HOUSE,098840 47482,Not required,Cold calling ,Hotel,Inactive,Nil,Budanta
+2398,20-05-22,Muniswari,Meenakshi holiday resort,098846 22155,Not interested,Cold calling ,Hotel,Inactive,Nil,Budanta
+2399,20-05-22,Muniswari,Hotel Simsan,099620 04257,refusedtoshare no.,Cold calling ,Hotel,Inactive,Nil,Budanta
+2400,20-05-22,Muniswari,The Great Empire Hotel,"044 6454 1235
+",Invalid number,Cold calling ,Hotel,Inactive,Nil,Budanta
+2401,20-05-22,Muniswari,Rb residency Ambattur,096001 47755,Not required,Cold calling ,Hotel,Inactive,Nil,Budanta
+2402,20-05-22,Muniswari,M Stays,096417 77222,Not required,Cold calling ,Hotel,Inactive,Nil,Budanta
+2403,20-05-22,Muniswari,Hotel Chennai Deluxe,044 2479 9911,Not required,Cold calling ,Hotel,Inactive,Nil,Budanta
+2404,20-05-22,Muniswari,KGL Grand Hotel,073582 58988,Not required,Cold calling ,Hotel,Inactive,Nil,Budanta
+2405,20-05-22,Muniswari,K-Square Hotel,044 4859 9751,c/b 23 May@10A.M ,Cold calling ,Hotel,Inactive,Nil,Budanta
+2406,20-05-22,Muniswari,Aishwaryam Deshna Service Apartment,098940 10103,Not required,Cold calling ,Hotel,Inactive,Nil,Budanta
+2407,20-05-22,Muniswari,Amrita Inn,044 4551 6084,Not answering,Cold calling ,Hotel,Inactive,Nil,Budanta
+2408,20-05-22,Muniswari,Royal Club,044 2653 3222,Invalid,Cold calling ,Hotel,Inactive,Nil,Budanta
+2409,20-05-22,Muniswari,A & M Rooms and Residences,090033 12342,Not required ,Cold calling ,Hotel,Inactive,Nil,Budanta
+2410,20-05-22,Muniswari,Hotel Chennai Gateway,044 2479 6994,Ringing no response,Cold calling ,Hotel,Inactive,Nil,Budanta
+2411,20-05-22,Muniswari,Saaral Residency,044 2656 6001,c/b 23 May@10A.M ,Cold calling ,Hotel,Inactive,Nil,Budanta
+2412,20-05-22,Muniswari,Dakshin Serviced Apartments,095001 87456,Not required,Cold calling ,Hotel,Inactive,Nil,Budanta
+2413,20-05-22,Muniswari,The Belstead Hotel,044 2828 0027,C/btravel23May@10am,Cold calling ,Hotel,Inactive,Nil,Budanta
