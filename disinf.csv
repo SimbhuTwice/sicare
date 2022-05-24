@@ -142,7 +142,7 @@ S No,Client name ,Location ,Category ,Work Status ,Responsibilty,Completed On,Wo
 141,Cheers ,Adyar,Office ,Done,Dinesh ,16-04-22,3.30 PM,0,Self,Fumigation ,CRM 
 142,Loganathan ,Aadhambakkam ,Residence ,Done ,Sathish ,19-04-22,0,2700,Received from Client,Ac Work ,Rakesh
 143,Navaneedhan ,Puzhudhivakkam ,Residence ,Done ,Sathish ,11-04-22,0,2400,Received from Client,Ac Work ,Rakesh 
-144,Scan India ,Teynampet ,Residence ,Done ,Vendor ,25-04-22,0,2124,Pending from Client,Pest Control,Existing
+144,Scan India ,Teynampet ,Residence ,Done ,Vendor ,25-04-22,0,2124,Received from Client,Pest Control,Existing
 145,Deccan Event ,Solinganallur,Residence ,Done ,Sathish ,02-05-22,0,6549,Pending from Client,Ac Work,CRM 
 146,GuruPrasad ,Alwarpet,Residence,Done ,Dinesh ,06-05-22,0,8600,Pending from Client,Deep Cleaning ,CRM 
 147,Murugabharthi ,Teynampet ,Residence,Done,Sathish ,04-05-22,0,2450,Received from Client,Ac Work ,Rakesh
@@ -151,3 +151,4 @@ S No,Client name ,Location ,Category ,Work Status ,Responsibilty,Completed On,Wo
 150,Trendline VH,Valasaravakkam,Show room,Done,Sathish ,12-03-22,0,4708,Received from Client,Ac Work ,Existing
 151,Trendline LP ,Vijaya mall ,Show room,Done,Sathish ,12-03-22,0,1416,Pending from Client,Ac Work ,Existing
 152,Deccan Event ,T Nagar ,Residence ,Done ,Sathish ,04-05-22,0,8968,Pending from Client,Ac Work,CRM 
+153,SBI G Insurance ,Nungambakkam ,Bank ,Done,Vendor ,21-03-22,0,4872,Pending from Client,Pest Control,Rakesh
