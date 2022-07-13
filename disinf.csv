@@ -158,6 +158,9 @@ S No,Client name ,Location ,Category ,Work Status ,Responsibilty,Completed On,Wo
 157,Vivek ,T Nagar ,Residence ,Done ,Sathish ,04-05-22,0,8520,Received from Client,Ac Work,CRM 
 158,Trendline VH,Valasaravakkam,Show room,Done,Sathish ,12-05-22,0,3990,Received from Client,Ac Work ,Existing
 159,Scan India ,T Nagar,Residence ,Done ,Vendor ,25-06-22,0,3068,Received from Client,Fumigation ,Existing
-160,O3M,T Nagar,Office ,Done ,Self ,06-07-22,0,2000,Pending from Client,Fumigation ,Existing
+160,O3M,T Nagar,Office ,Done ,Self ,06-07-22,0,2000,Received from Client,Fumigation ,Existing
 161,SBI G Insurance ,Nungambakkam ,Bank ,Done,Vendor ,11-07-22,0,4872,Pending from Client,Pest Control,Rakesh
-162,Dr Shantha ,T Nagar ,Residence ,Done ,Self ,30-06-22,0,1800,Received from Client,Fumigation ,CRM 
+162,Dr Shantha ,T Nagar ,Residence ,Done ,Self ,30-06-22,0,1800,Received from Client,Fumigation ,Saneel 
+163,Scan India ,T Nagar,Residence ,Done ,Vendor ,25-06-22,0,1200,,Pest Control,Existing
+164,Work Villa ,Nungambakkam ,Residence ,Done ,Self ,13-07-22,9:00 AM,1000,,Fumigation ,Saneel 
+165,ZI Clinic ,Alwarpet,Office,,Self ,13-07-22,0,3071,,Chemical,Existing
