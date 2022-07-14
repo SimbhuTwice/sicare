@@ -151,7 +151,7 @@ S No,Client name ,Location ,Category ,Work Status ,Responsibilty,Completed On,Wo
 150,Trendline VH,Valasaravakkam,Show room,Done,Sathish ,12-05-22,0,4308,Received from Client,Ac Work ,Existing
 151,Trendline LP ,Vijaya mall ,Show room,Done,Sathish ,12-05-22,0,1416,Received from Client,Ac Work ,Existing
 152,Deccan Event ,T Nagar ,Residence ,Done ,Sathish ,04-05-22,0,8968,Received from Client,Ac Work,Rakesh
-153,SBI G Insurance ,Nungambakkam ,Bank ,Done,Vendor ,21-03-22,0,4872,Pending from Client,Pest Control,Rakesh
+153,SBI G Insurance ,Nungambakkam ,Bank ,Done,Vendor ,21-03-22,0,4872,Received from Client,Pest Control,Rakesh
 154,Hamsi Prakash ,Nungambakkam ,Residence ,Done,Sathish ,25-05-22,0,3850,Received from Client,Ac Work ,Rakesh
 155,Vivek ,T Nagar ,Residence ,Done ,Sathish ,04-05-22,0,2700,Received from Client,Ac Work,CRM 
 156,Tejas Mehta ,Nungambakkam ,Residence ,Done,Self ,10-03-22,0,3000,Received from Client,Ac Work,CRM 
@@ -161,6 +161,6 @@ S No,Client name ,Location ,Category ,Work Status ,Responsibilty,Completed On,Wo
 160,O3M,T Nagar,Office ,Done ,Self ,06-07-22,0,2000,Received from Client,Fumigation ,Existing
 161,SBI G Insurance ,Nungambakkam ,Bank ,Done,Vendor ,11-07-22,0,4872,Pending from Client,Pest Control,Rakesh
 162,Dr Shantha ,T Nagar ,Residence ,Done ,Self ,30-06-22,0,1800,Received from Client,Fumigation ,Saneel 
-163,Scan India ,T Nagar,Residence ,Done ,Vendor ,25-06-22,0,1200,,Pest Control,Existing
-164,Work Villa ,Nungambakkam ,Residence ,Done ,Self ,13-07-22,9:00 AM,1000,,Fumigation ,Saneel 
-165,ZI Clinic ,Alwarpet,Office,,Self ,13-07-22,0,3071,,Chemical,Existing
+163,Scan India ,T Nagar,Residence ,Done ,Vendor ,25-06-22,0,2065,Pending from Client,Pest Control,Existing
+164,Work Villa ,Nungambakkam ,Residence ,Done ,Self ,13-07-22,9:00 AM,9212,Pending from Client,Fumigation ,Saneel 
+165,ZI Clinic ,Alwarpet,Office,,Self ,13-07-22,0,3071,Pending from Client,Chemical,Existing
